@@ -1,0 +1,8 @@
+numpy
+pandas>=2.2
+statsmodels
+openpyxl
+requests
+yfinance>=0.2.50
+streamlit>=1.50
+plotly

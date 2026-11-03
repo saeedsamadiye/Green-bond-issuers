@@ -1,0 +1,534 @@
+issuer,ticker,include,source,note,quote_name,exchange,score
+A2A S.p.A.,A2A.MI,True,auto,,A2A S.p.A.,MIL,1.0
+AB FINANCIAL PRODUCTS,,False,auto,,,,0.0
+AB SAGAX,SAGA-B.ST,True,auto,,AB Sagax (publ),STO,1.0
+AB SVENSK EXPORTKREDIT,,False,auto,,,,0.0
+AB Stena Metall Finans,,False,auto,,,,0.0
+ABERTIS INFRAESTRUCTURAS,,False,auto,,,,0.0
+ABN AMRO BANK,ABN.AS,True,auto,,ABN AMRO Bank N.V.,AMS,1.0
+ABU DHABI COMMERCIAL BANK PJSC,ADCB.AE,True,manual,missed by search,,,0.0
+ACCIONA,ANA.MC,True,auto,,"Acciona, S.A.",MCE,1.0
+ACCOR,AC.PA,True,auto,,Accor SA,PAR,1.0
+ACEA S.p.A.,ACE.MI,True,auto,,ACEA S.p.A.,MIL,1.0
+ACEF HOLDING S.C.A.,,False,auto,,,,0.0
+ACHMEA,,False,auto,,,,0.0
+AEDAS HOMES OPCOS.L.U.,,False,auto,,,,0.0
+AEROPORTI DI ROMA,,False,auto,,,,0.0
+AEROPORTI DI ROMA SPA,,False,auto,,,,0.0
+AGILYX,AGLX.OL,True,auto,,Agilyx ASA,OSL,1.0
+AGSM AIM S.P.A.,,False,auto,,,,0.0
+AIB GROUP,A5G.IR,True,auto,,AIB Group plc,ISE,1.0
+AIR FRANCE - KLM,AF.PA,True,auto,,Air France-KLM SA,PAR,0.98
+AKBANK T.A.S.,AKBNK.IS,True,auto,,Akbank T.A.S.,IST,1.0
+AKROPOLIS GROUP,,False,auto,,,,0.0
+AKUO ENERGY,,False,auto,,,,0.0
+AL SYDBANK,ALSYDB.CO,True,auto,,AL Sydbank A/S,CPH,1.0
+ALBIOMA,,False,auto,,,,0.0
+ALDAR INVESTMENT PROPERTIES,ALDAR.AE,True,manual,listed parent,,,0.0
+ALLIANDER N.V.,,False,auto,,,,0.0
+ALSTOM,ALO.PA,True,auto,,Alstom SA,PAR,1.0
+AMVEST RCF CUSTODIAN B.V.,,False,auto,,,,0.0
+ANDORRA BANC AGRÍCOL REIG,,False,auto,,,,0.0
+AQUAFIN,,False,auto,,,,0.0
+ARAB PETROLEUM INVESTMENTS CORPORATION,,False,auto,,,,0.0
+ARCELIK A.S.,ARCLK.IS,True,auto,,Arçelik Anonim Sirketi,IST,1.0
+ARCHIMEDE INVESTMENTS,,False,auto,,,,0.0
+ARDAGH PACKAGING FINANCE,,False,auto,,,,0.0
+ARGAN,ARG.PA,True,manual,correct company (French REIT),,,1.0
+ARKEMA,AKE.PA,True,auto,,Arkema S.A.,XPAR,1.0
+ARLA FOODS,,False,auto,,,,0.0
+ASJA AMBIENTE ITALIA,,False,auto,,,,0.0
+ASSURA FINANCING,AGR.L,True,manual,financing vehicle of Assura plc,,,0.91
+ASTM,,False,auto,,"ASTMAX Co., Ltd.",JPX,0.5
+ATENOR,ATEB.BR,True,auto,,Atenor SA,BRU,1.0
+ATOS,ATO.PA,True,auto,,Atos Group,PAR,1.0
+"AUTOLIV, INC.",ALV,True,auto,,"Autoliv, Inc.",NYQ,1.0
+AUTOSTRADE PER L’ITALIA,,False,auto,,,,0.0
+AXA,CS.PA,True,auto,,AXA SA,PAR,1.0
+AYDEM YENILENEBILIR ENERJI,AYDEM.IS,True,auto,,Aydem Yenilenebilir Enerji A.S.,IST,1.0
+AYDEM YENILENEBILIR ENERJI A.S.,AYDEM.IS,True,auto,,Aydem Yenilenebilir Enerji A.S.,IST,1.0
+AZIENDA TRASPORTI MILANESI S.P.A.,,False,auto,,,,0.0
+Aker,AKRBP.OL,False,manual,wrong match or not stock-listed,Aker BP ASA,OSL,1.0
+Akershus Energi AS,,False,auto,,,,0.0
+Alerion Clean Power S.p.A.,ARN.MI,True,auto,,Alerion Clean Power S.p.A.,MIL,1.0
+Alperia S.p.A,,False,auto,,,,0.0
+Altera Shuttle Tankers LLC,,False,auto,,,,0.0
+Arva AS,,False,auto,,Arvaya Healthcare Limited,BSE,0.38
+Askim og Spydeberg Sparebank,,False,auto,,,,0.0
+Aurskog Sparebank,AURG.OL,True,auto,,Aurskog Sparebank,OSL,1.0
+B.A.D. 22,,False,auto,,,,0.0
+BANCA MEDIOLANUM S.p.A.,BMED.MI,True,auto,,Banca Mediolanum S.p.A.,MIL,1.0
+BANCA TRANSILVANIA S.A.,TLV.RO,True,auto,,Banca Transilvania S.A.,BVB,1.0
+BANCO BILBAO VIZCAYA ARGENTARIA,BBVA.MC,True,manual,home listing instead of ADR,,,1.0
+BANCO COMERCIAL PORTUGUES,BCP.LS,True,manual,home listing,,,1.0
+BANCO DE CRÉDITO SOCIAL COOPERATIVO,,False,auto,,,,0.0
+BANCO DE SABADELL,SAB.MC,True,manual,missed by search,,,0.0
+BANCO NACIONAL DE COMERCIO EXTERIORSOCIEDAD NACIONAL DE CRÉDITOINSTITUCIÓN DE BANCA DE DESARROLLO,,False,auto,,,,0.0
+BANCO SANTANDER,SAN.MC,True,manual,home listing instead of ADR,,,1.0
+"BANCO SANTANDER, S.A.",SAN.MC,True,manual,home listing instead of ADR,,,1.0
+BANCO VOTORANTIM,,False,auto,,,,0.0
+BANK OF IRELAND,BIRG.IR,True,auto,,Bank of Ireland Group plc,ISE,1.0
+BANQUE FEDERATIVE DU CREDIT MUTUEL,,False,auto,,,,0.0
+BANQUE POSTALE (LA),,False,auto,,,,0.0
+BARCLAYS BANK,BARC.L,True,manual,listed parent,,,0.0
+BBVA,BBVA.MC,True,manual,home listing instead of ADR,,,1.0
+BCA MEZZOGIORNO MEDIOCREDITO CENTR,,False,auto,,,,0.0
+BEL,BELFB,False,manual,wrong match or not stock-listed,Bel Fuse Inc.,NMS,1.0
+BERTRAND CORP,BDT.HA,False,manual,wrong match or not stock-listed,Bertrandt AG,HAN,0.79
+BFF BANK S.P.A.,BFF.MI,True,auto,,BFF Bank S.p.A.,MIL,1.0
+BIAUTO,,False,auto,,,,0.0
+BIOGAS SARDEGNA GREEN,,False,auto,,,,0.0
+BKK AS,,False,auto,,"Bakkt, Inc.",NYQ,0.55
+BN Bank ASA,BBC.AX,False,manual,wrong match or not stock-listed,BNK Banking Corporation Limited,ASX,0.78
+BNP entities,BNP.PA,True,auto,,BNP Paribas SA,PAR,1.0
+BOLIDEN AB,BOL.ST,True,auto,,Boliden AB (publ),STO,1.0
+BPCE,,False,auto,,,,0.0
+BPER Banca S.p.A.,BPE.MI,True,auto,,BPER Banca SpA,MIL,1.0
+Banca Monte dei Paschi di Siena S.p.A.,BMPS.MI,True,auto,,Banca Monte dei Paschi di Siena S.p.A.,MIL,1.0
+Banca Popolare di Sondrio S.p.A.,BPSO.MI,True,manual,missed by search,,,0.0
+Banco BPM S.p.A.,BAMI.MI,True,auto,,Banco BPM S.p.A.,MIL,1.0
+Bane NOR Eiendom AS,,False,auto,,,,0.0
+Belfius Bank,,False,auto,,,,0.0
+Benchmark Holdings plc,BMK.L,True,manual,correct company,,,1.0
+Bonheur ASA,BONHR.OL,True,auto,,Bonheur ASA,OSL,1.0
+Borregaard,BRG.OL,True,auto,,Borregaard ASA,OSL,1.0
+BoursoBank,,False,auto,,,,0.0
+Bper Banca,BPE.MI,True,auto,,BPER Banca SpA,MIL,1.0
+Brage Finans AS,BRFI52-PRO.OL,False,manual,wrong match or not stock-listed,Brage Finans AS 22/PERP FRN C H,OSL,1.0
+Bulk Infrastructure Group AS,,False,auto,,,,0.0
+Bundesrepublik Deutschland,,False,auto,,,,0.0
+Bustadkreditt Sogn og Fjordane AS,,False,auto,,,,0.0
+CAIXA CENTRAL - CAIXA CENTRAL DE CRÉDITO AGRÍCOLA MÚTUOC.R,,False,auto,,,,0.0
+CAIXABANK,CABK.MC,True,auto,,"CaixaBank, S.A.",MCE,1.0
+CAP HOLDING,TLCE,False,manual,wrong match or not stock-listed,Thrivent Large Cap Stock ETF,NGM,0.95
+CAPELLI,,False,auto,,,,0.0
+CARE PROPERTY INVEST,CPINV.BR,True,auto,,Care Property Invest NV,BRU,1.0
+CARMILA,CARM.PA,True,auto,,Carmila S.A.,PAR,1.0
+CARREFOUR,CA.PA,True,auto,,Carrefour SA,PAR,1.0
+CASSA DI RISPARMIO DI BOLZANO,,False,auto,,,,0.0
+CBRE EUROPE LOGISTICS PARTNERS,,False,auto,,,,0.0
+CBRE GLOBAL INVESTORS,,False,auto,,,,0.0
+CDP FINANCIAL,,False,auto,,,,0.0
+CEMEXB. DE C.V.,,False,auto,,,,0.0
+CGNPC INTERNATIONAL LIMITED,,False,auto,,,,0.0
+CHARGEURS,CRI.PA,True,manual,correct company,,,0.95
+CITIGROUP,C,True,auto,,Citigroup Inc.,NYQ,1.0
+CITYCON,CTY1S.HE,True,auto,,Citycon Oyj,HEL,1.0
+CNP ASSURANCES,,False,auto,,,,0.0
+COCA-COLA ICECEK ANONIM SIRKETI,CCOLA.IS,True,manual,missed by search,,,0.0
+CODIC INTERNATIONAL,,False,auto,,,,0.0
+COFINIMMO,COFB.BR,True,manual,missed by search,,,0.0
+COLONIAL SFL,COL.MC,True,auto,,"Colonial SFL, Socimi S. A.",MCE,1.0
+COLRUYT,COLR.BR,True,auto,,Colruyt Group N.V.,BRU,1.0
+COMMERCIAL BANK OF DUBAI P.S.C.,CBD.AE,True,auto,,Commercial Bank of Dubai PSC,DFM,1.0
+COMPAGNIE DE PHALSBOURG SARL,,False,auto,,,,0.0
+CONTSHIPS LOGISTICS,,False,auto,,,,0.0
+COVIVIO,COV.PA,True,auto,,Covivio,PAR,1.0
+CPI PROPERTY GROUP,O5G.DE,True,auto,,CPI Property Group,GER,1.0
+CPPIB CAPITAL INC,,False,auto,,,,0.0
+CREDITO EMILIANO,CE.MI,True,auto,,Credito Emiliano S.p.A.,MIL,1.0
+CTP N.V.,CTPNV.AS,True,auto,,CTP N.V.,AMS,1.0
+CUF,,False,auto,,CuFe Ltd,ASX,0.5
+CYRUSONE EUROPE FINANCE,,False,auto,,,,0.0
+CZECH GAS NETWORKS INVESTMENTS S.À R.L.,,False,auto,,,,0.0
+Cassa Centrale Banca - Credito Cooperativo Italiano,,False,auto,,,,0.0
+Central American Bank for Economic Integration,,False,auto,,,,0.0
+Clemens Kraftverk AS,,False,auto,,,,0.0
+Credit Agricole Entities,ACA.PA,True,auto,,Crédit Agricole S.A.,PAR,1.0
+Crelan,,False,auto,,,,0.0
+Cronos Master Consumer Loans,,False,auto,,,,0.0
+DAIMLER,MBG.DE,True,manual,Daimler AG is now Mercedes-Benz Group,,,1.0
+DANONE,BN.PA,True,auto,,Danone S.A.,PAR,1.0
+DANSKE BANK,DANSKE.CO,True,auto,,Danske Bank A/S,CPH,1.0
+DESJARDINS,DUIG.NE,False,manual,wrong match or not stock-listed,DESJARDINS US INVESTMENT GRADE ,NEO,0.95
+DEUTSCHE BANK,DBK.DE,True,manual,home listing instead of ADR,,,1.0
+DIGITAL DUTCH FINCO,,False,auto,,,,0.0
+"DIGITAL EURO FINCO, LLC",,False,auto,,,,0.0
+DIGITAL INTREPID HOLDING B.V.,,False,auto,,,,0.0
+DNB BANK,DNB.OL,True,auto,,DNB Bank ASA,OSL,1.0
+DOLOMITI ENERGIA HOLDING S.P.A.,,False,auto,,,,0.0
+DTEK FINANCE,,False,auto,,,,0.0
+Dragados SA,,False,auto,,,,0.0
+E ON SE,EOAN.DE,True,manual,missed by search,,,0.47
+EAGLESTONE GROUP S.A.R.L.,,False,auto,,,,0.0
+EDENRED,EDEN.PA,True,auto,,Edenred SE,PAR,1.0
+EDF,,False,auto,,Virtus Stone Harbor Emerging Markets Income Fund,NYQ,0.13
+EDP,EDP.LS,True,auto,,"EDP, S.A.",LIS,1.0
+EDP FINANCE,EDP.LS,True,auto,,"EDP, S.A.",LIS,1.0
+EEW CAPITAL FINANCE PLC,,False,auto,,,,0.0
+EIKA BOLIGKREDITT AS,,False,auto,,,,0.0
+ELENIA,,False,auto,,,,0.0
+ELLEVIO AB,,False,auto,,,,0.0
+ELM,7203.SR,False,manual,wrong match or not stock-listed,Elm Company,SAU,1.0
+EMIRATES NBD BANK PJSC,EMIRATESNBD.AE,True,auto,,Emirates NBD Bank PJSC,DFM,1.0
+ENBW INTERNATIONAL FINANCE,EBK.DE,True,auto,,EnBW Energie Baden-Württemberg AG,GER,1.0
+ENEL FINANCE INTERNATIONAL,ENEL.MI,True,auto,,Enel SpA,MIL,1.0
+ENERGO-PRO,,False,auto,,,,0.0
+ENEXIS HOLDING NV,,False,auto,,,,0.0
+ENGENERA GREEN BONDS PLC,,False,auto,,,,0.0
+ENGIE,ENGI.PA,True,auto,,Engie SA,PAR,1.0
+"EP INFRASTRUCTURE, A.S",,False,auto,,,,0.0
+EPH,GEPH.DE,False,manual,wrong match or not stock-listed,EPH Group AG,GER,1.0
+EPIROC AB,EPI-A.ST,True,auto,,Epiroc AB (publ),STO,1.0
+EQUITABLE BANK,EQB.TO,True,manual,missed by search,,,0.0
+ERAMET,ERA.PA,True,auto,,ERAMET S.A.,PAR,1.0
+ESB,,False,auto,,Eshbal Functional Food Inc.,VAN,0.24
+EUROPEAN OUTLET MALL VENTURE,,False,auto,,,,0.0
+East Renewable AB,,False,auto,,,,0.0
+EdgeConneX,,False,auto,,,,0.0
+Egis,261520.KQ,False,manual,wrong match or not stock-listed,"Egis Co.,Ltd",KOE,1.0
+Eidsiva Energi AS,,False,auto,,,,0.0
+Eiendomskreditt AS,,False,auto,,,,0.0
+Elkem ASA,ELK.OL,True,auto,,Elkem ASA,OSL,1.0
+Elopak,ELO.OL,True,auto,,Elopak ASA,OSL,1.0
+Emirates Islamic Bank,,False,auto,,,,0.0
+Eni S.p.A.,ENI.MI,True,manual,home listing instead of ADR,,,1.0
+Entra ASA,ENTRA.OL,True,auto,,Entra ASA,OSL,1.0
+Eviny AS,,False,auto,,,,0.0
+FABBRICA ITALIANA SINTETICI,,False,auto,,,,0.0
+FARYS,,False,auto,,,,0.0
+FAURECIA,FRVIA.PA,True,manual,renamed Forvia,,,0.85
+FCC AQUALIA,,False,auto,,,,0.0
+FCC SERVICIOS MEDIO AMBIENTE HOLDING,,False,auto,,,,0.0
+FERROVIAL SA,FER.MC,True,manual,Madrid listing,,,1.0
+FERROVIE DELLO STATO ITALIANE,,False,auto,,,,0.0
+FIBRA UNO,FUNO11.MX,True,auto,,Fibra UNO,MEX,1.0
+"FIDELIDADE - COMPANHIA DE SEGUROS, SA",,False,auto,,,,0.0
+FINANCEMENT FONCIER (CIE DE),,False,auto,,,,0.0
+FINANCIERE APSYS,,False,auto,,,,0.0
+FINANCING FOR HEALTHIER LIVES,,False,auto,,,,0.0
+FIND SPA,,False,auto,,FINDEX Inc.,JPX,0.5
+FINGRID OYJ,,False,auto,,,,0.0
+FLUVIUS SYSTEM OPERATOR,,False,auto,,,,0.0
+FOMENTO ECONOMICO MEXICANO S.A.B. DE C.V.,FEMSAUBD.MX,True,manual,missed by search,,,0.0
+Fana Sparebank Boligkreditt AS,,False,auto,,,,0.0
+Ferde AS,,False,auto,,,,0.0
+Fjellinjen AS,,False,auto,,,,0.0
+Flekkefjord Sparebank,FFSB.OL,True,auto,,Flekkefjord Sparebank,OSL,1.0
+"Flemish, Community of",,False,auto,,,,0.0
+GECINA,GFC.PA,True,auto,,Gecina,PAR,1.0
+GEK TERNA,GEKTERNA.AT,True,auto,,Gek Terna S.A.,ATH,1.0
+GEMGARTO,,False,auto,,,,0.0
+GENERALI,G.MI,True,auto,,Assicurazioni Generali S.p.A.,MIL,1.0
+GEORGIA GLOBAL UTILITIES JSC,,False,auto,,,,0.0
+GETLINK SE,GET.PA,True,auto,,Getlink SE,PAR,1.0
+GIMV,GIMB.BR,True,auto,,Gimv NV,BRU,1.0
+GLOBAL SWITCH,,False,auto,,,,0.0
+GLOBALWORTH REAL ESTATE INVESTMENTS,GWI.L,True,auto,,Globalworth Real Estate Investments Limited,LSE,1.0
+GLX Holding,,False,auto,,Galaxy Digital,NMS,0.4
+GPI S.p.A.,GPI.MI,True,manual,correct company,,,0.3
+GREEN LUCCA,,False,auto,,,,0.0
+GREENVOLT,GVOLT.LS,True,manual,home listing,,,0.8
+GROUPAMA ASSURANCES MUTUELLES,,False,auto,,,,0.0
+GTC AURORA LUXEMBOURG S.A.,,False,auto,,,,0.0
+Glitre Energi AS,,False,auto,,,,0.0
+Greater Gabbard OFTO PLC,,False,auto,,,,0.0
+Green Arrow,GAR-H.V,False,manual,wrong match or not stock-listed,Green Arrow Resources Inc.,VAN,0.95
+Greenalia S.A.,,False,auto,,,,0.0
+Grenke Group,GLJ.DE,True,auto,,Grenke AG,GER,1.0
+Grieg Seafood ASA,GSF.OL,True,auto,,Grieg Seafood ASA,OSL,1.0
+H&M FINANCE,,False,auto,,Hecla Mining Company,NYQ,0.32
+HEIDELBERG MATERIALS AG,HEI.DE,True,auto,,Heidelberg Materials AG,GER,1.0
+HEIMSTADEN BOSTAD AB,,False,auto,,,,0.0
+HEMSÖ FASTIGHETS AB,,False,auto,,,,0.0
+HERA,HER.MI,True,auto,,Hera S.p.A.,MIL,1.0
+HLD EUROPE,,False,auto,,,,0.0
+HOLDING D’INFRASTRUCTURES DES MÉTIERS DE L’ENVIRONNEMENT SAS,,False,auto,,,,0.0
+HSBC,HSBA.L,True,manual,home listing,,,1.0
+Hafslund,,False,auto,,,,0.0
+Haugaland Kraft AS,,False,auto,,,,0.0
+Haugesund Sparebank,HGSB.OL,True,auto,,Haugesund Sparebank,OSL,1.0
+Helgeland Kraft,,False,auto,,,,0.0
+Hofseth International AS,HBC.OL,False,manual,wrong match or not stock-listed,Hofseth BioCare ASA,OSL,1.0
+Hurtigruten Group AS,,False,auto,,,,0.0
+IADB,,False,auto,,,,0.0
+IBERDROLA,IBE.MC,True,auto,,"Iberdrola, S.A.",MCE,1.0
+ICADE,ICAD.PA,True,auto,,Icade,PAR,1.0
+ICCREA BANCA,,False,auto,,,,0.0
+ICCREA Banca S.P.A.,,False,auto,,,,0.0
+IMMOBEL,IMMO.BR,True,auto,,Immobel SA,BRU,1.0
+IN LI,,False,auto,,INLIF Limited,NCM,0.5
+ING,INGA.AS,True,manual,home listing,,,1.0
+INMOBILIARIA COLONIAL SOCIMI,COL.MC,True,manual,home listing instead of German secondary,,,0.85
+INTER-AMERICAN INVESTMENT CORPORATION,,False,auto,,,,0.0
+INTERVEST OFFICES - WAREHOUSES,,False,auto,,,,0.0
+INTESA SANPAOLO,ISP.MI,True,auto,,Intesa Sanpaolo S.p.A.,MIL,1.0
+INWIT,INW.MI,True,manual,missed by search,,,0.32
+IREN,IRE.MI,True,manual,correct company (Italian utility),,,1.0
+IRR CASERTA,,False,auto,,,,0.0
+ISDB TRUST SERVICES,,False,auto,,,,0.0
+ISLANDSBANKI HF,ISB.IC,True,manual,missed by search,,,0.0
+ISTITUTO PER IL CREDITO SPORTIVO,,False,auto,,,,0.0
+ISTITUTO PER IL CREDITO SPORTIVO E CULTURALE,,False,auto,,,,0.0
+ITELYUM,,False,auto,,,,0.0
+IceBear Steenwijk B.V.,,False,auto,,,,0.0
+Innovatec,INC.MI,True,auto,,Innovatec S.p.A.,MIL,1.0
+JBF Sparebank,,False,auto,,,,0.0
+JP MORGAN,,False,auto,,JPMorgan Chase & Co.,NYQ,0.69
+JYSKE BANK A-S,JYSK.CO,True,auto,,Jyske Bank A/S,CPH,1.0
+Jæren Sparebank,JAREN.OL,True,manual,missed by search,,,0.0
+KBC,KBC.BR,True,auto,,KBC Group NV,BRU,1.0
+KERRY GROUP FINANCIAL SERVICES,KRZ.IR,True,manual,listed parent Kerry Group,,,0.0
+KINGSPAN SECURITIES DAC,KRX.IR,True,manual,financing vehicle of Kingspan Group,,,0.0
+KLEPIERRE,LI.PA,True,auto,,Klépierre SA,PAR,1.0
+KOJAMO,V4OC.DU,False,manual,wrong match or not stock-listed,Kojamo Oyj,DUS,0.85
+KONINKLIJKE AHOLD DELHAIZE NV,AD.AS,True,auto,,Koninklijke Ahold Delhaize N.V.,AMS,1.0
+KONINKLIJKE KPN,KPN.AS,True,auto,,Koninklijke KPN N.V.,AMS,1.0
+KORIAN,CLARI.PA,True,manual,renamed Clariane,,,0.85
+KT21 T2 COMPANY LIMITED,,False,auto,,,,0.0
+KVIKA BANKI HF.,KVIKA.IC,True,auto,,Kvika banki hf.,ICE,1.0
+Klaveness Combination Carriers ASA,KCC.OL,True,auto,,Klaveness Combination Carriers ASA,OSL,1.0
+Knorr-Bremse Aktiengesellschaft,KBX.DE,True,manual,missed by search,,,0.0
+Kredittforeningen for Spareban,,False,auto,,,,0.0
+LAND SECURITIES,LAND.L,True,auto,,Land Securities Group Plc,LSE,1.0
+LANDSBANKINN HF.,,False,auto,,,,0.0
+LANTERNA FINANCE,,False,auto,,,,0.0
+LEASEPLAN CORPORATION N.V.,,False,auto,,,,0.0
+LEASYS,,False,auto,,,,0.0
+LEGRAND,LR.PA,True,auto,,Legrand SA,PAR,1.0
+LOGICOR FINANCING,,False,auto,,,,0.0
+LOGICOR FINANCING S.À R.L.,,False,auto,,,,0.0
+LOOMIS,LOOMIS.ST,True,auto,,Loomis AB (publ),STO,1.0
+Lakers Group AB (publ)1,,False,auto,,,,0.0
+Landkreditt Bank AS,LANDK57-PRO.OL,False,manual,wrong match or not stock-listed,Landkreditt Bank AS 22/PERP FRN,OSL,1.0
+Lerøy Seafood Group,LSG.OL,True,manual,missed by search,,,0.0
+Lyse AS,,False,auto,,,,0.0
+M&G EUROPEAN PROPERTY FUND,,False,auto,,,,0.0
+MAF GLOBAL SECURITIES LIMITED,,False,auto,,,,0.0
+MAGELLAN SAS,MAL.TO,False,manual,wrong match or not stock-listed,Magellan Aerospace Corporation,TOR,0.95
+MAIRE TECNIMONT S.p.A.,MAIRE.MI,True,manual,home listing instead of German secondary,,,0.85
+MAS SECURITIES,,False,auto,,,,0.0
+MEDIOBANCA,MB.MI,True,auto,,Mediobanca Banca di Credito Finanziario S.p.A.,MIL,1.0
+MENDES GONÇALVES,,False,auto,,,,0.0
+MERCEDES-BENZ GROUP,MBG.DE,True,auto,,Mercedes-Benz Group AG,GER,1.0
+MONDELEZ INTERNATIONAL HOLDINGS NETHERLANDS B.V,MDLZ,True,manual,listed parent Mondelez,,,0.0
+MOTA-ENGIL SGPS,EGL.LS,True,auto,,"Mota-Engil, SGPS, S.A.",LIS,1.0
+MPC Container Ships ASA,MPCC.OL,True,auto,,MPC Container Ships ASA,OSL,1.0
+MUNDYS S.P.A.,,False,auto,,,,0.0
+MVM ENERGETIKA ZÁRTKÖRUEN MUKÖDO RÉSZVÉNYTÁRSASÁG,,False,auto,,,,0.0
+Media Central Holding GmbH,,False,auto,,,,0.0
+Mowi ASA,MOWI.OL,True,auto,,Mowi ASA,OSL,1.0
+MØRE BOLIGKREDITT AS,,False,auto,,,,0.0
+N.V. NEDERLANDSE GASUNIE,,False,auto,,,,0.0
+"NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO",,False,auto,,,,0.0
+NATIXIS,LSTB,False,manual,wrong match or not stock-listed,Natixis Loomis Sayles Total Return Bond ETF,PCX,0.95
+NBK Group,,False,auto,,National Bank of Kuwait S.A.K.P.,KUW,0.19
+NE PROPERTY,,False,auto,,,,0.0
+NEINOR HOMES,HOME.MC,True,auto,,"Neinor Homes, S.A.",MCE,1.0
+NEMAK S.A.B. DE C.V.,NEMAKA.MX,True,manual,missed by search,,,0.0
+NEOEN,NEOEN.PA,True,manual,missed by search (delisted 2025),,,0.0
+NES Fircroft Bondco AS,,False,auto,,,,0.0
+NESTE CORPORATION,NESTE.HE,True,auto,,Neste Oyj,HEL,1.0
+NEXANS,NEX.PA,True,auto,,Nexans S.A.,PAR,1.0
+NEXITY,NXI.PA,True,auto,,Nexity SA,PAR,1.0
+NGE,TTU.MU,False,manual,wrong match or not stock-listed,NGE Capital Ltd,MUN,0.8
+NIBC BANK N.V.,,False,auto,,,,0.0
+NN,,False,auto,,"NNN REIT, Inc.",NYQ,0.45
+NOKIA,NOKIA.HE,True,manual,home listing,,,1.0
+NORDEA,NDA-FI.HE,True,auto,,Nordea Bank Abp,HEL,1.0
+NORSK HYDRO ASA,NHY.OL,True,auto,,Norsk Hydro ASA,OSL,1.0
+NORTH WESTERLY,,False,auto,,,,0.0
+NOVAL PROPERTY,NOVAL.AT,True,auto,,Noval Property Real Estate Investment Company,ATH,1.0
+NRC GROUP ASA,NRC.OL,True,manual,correct company,,,1.0
+Narvik Energi,,False,auto,,,,0.0
+Naturgy Finance BV,NTGY.MC,True,auto,,"Naturgy Energy Group, S.A.",MCE,1.0
+Nelja Energia AS,,False,auto,,,,0.0
+Nord-Trøndelag Elektrisitetsvk,,False,auto,,,,0.0
+NorgesGruppen ASA,,False,auto,,,,0.0
+Norlandia Health & Care Group AS,,False,auto,,,,0.0
+Norwegian Property ASA,NPRO.OL,True,manual,missed by search,,,0.0
+OBOS-banken AS,OBOBA36-PRO.OL,False,manual,wrong match or not stock-listed,OBOS-banken AS 22/PERP ADJ C HY,OSL,1.0
+ONCOR ELECTRIC DELIVERY COMPANY LLC,,False,auto,,,,0.0
+ONTARIO TEACHERS’ FINANCE TRUST,,False,auto,,,,0.0
+OP CORPORATE BANK,,False,auto,,,,0.0
+OP MORTGAGE BANK,,False,auto,,,,0.0
+ORANGE,ORA.PA,True,auto,,Orange S.A.,PAR,1.0
+OREAL(L-),OR.PA,True,manual,missed by search,,,0.55
+ORKLA ASA,ORK.OL,True,auto,,Orkla ASA,OSL,1.0
+ORLEN,PKN.WA,True,auto,,Orlen S.A.,WSE,1.0
+ORPEA,EMEIS.PA,True,manual,renamed Emeis,,,0.85
+OVS,OVS.MI,True,auto,,OVS S.p.A.,MIL,1.0
+Odal Sparebank,,False,auto,,,,0.0
+Odfjell SE,ODF.OL,True,manual,correct company,,,1.0
+P&A,,False,auto,,"Palo Alto Networks, Inc.",NMS,0.24
+PANDORA A/S,PNDORA.CO,True,auto,,Pandora A/S,CPH,1.0
+PAPREC HOLDING,,False,auto,,,,0.0
+PARCO EOLICO CASALDUNI HOUSE,,False,auto,,,,0.0
+PEARSON FUNDING PLC,PSON.L,True,manual,financing vehicle of Pearson plc,,,0.0
+PERMANENT TSB,PTSB.L,True,auto,,Permanent TSB Group Holdings plc,LSE,1.0
+PERNOD RICARD,RI.PA,True,auto,,Pernod Ricard SA,PAR,1.0
+POLSKI KONCERN NAFTOWY ORLEN SPÓLKA AKCYJNA,,False,auto,,,,0.0
+POSTE(LA),PST.MI,True,auto,,Poste Italiane S.p.A.,MIL,1.0
+POSTNL,PNL.AS,True,auto,,PostNL N.V.,AMS,1.0
+PRAEMIA HEALTHCARE,,False,auto,,,,0.0
+PRODEA,PRODEA.AT,True,auto,,Prodea Real Estate Investment Company Société Anonyme,ATH,1.0
+PROXIMUS,PROX.BR,True,auto,,Proximus PLC,BRU,1.0
+PSA BANQUE FRANCE,,False,auto,,,,0.0
+PSP CAPITAL INC.,,False,auto,,,,0.0
+PUBLIC POWER CORPORATION,PPC.AT,True,auto,,Public Power Corporation S.A.,ATH,1.0
+PUSTERLA 1880 S.P.A,,False,auto,,,,0.0
+Pirelli & C. S.p.A.,PIRC.MI,True,auto,,Pirelli & C. S.p.A.,MIL,1.0
+Polaris Renewable Energy,PIF.TO,True,auto,,Polaris Renewable Energy Inc.,TOR,1.0
+Posten Bring AS,,False,auto,,,,0.0
+Proximus,PROX.BR,True,auto,,Proximus PLC,BRU,1.0
+QNB FINANSBANK A.S,,False,auto,,,,0.0
+Qatar National Bank Group,QNBK.QA,True,auto,,Qatar National Bank (Q.P.S.C.),DOH,1.0
+RABOBANK,,False,auto,,,,0.0
+RAMSGATE DC HOLDINGS UK 1,,False,auto,,,,0.0
+RCI BANQUE,,False,auto,,,,0.0
+REN FINANCE,,False,auto,,"RenovoRx, Inc.",NCM,0.5
+RENAULT,RNO.PA,True,auto,,Renault SA,PAR,1.0
+RENCO GROUP,,False,auto,,,,0.0
+RIKSHEM AB,,False,auto,,,,0.0
+RIVER GREEN FINANCE,,False,auto,,,,0.0
+ROMERIKE SPAREBANK,ROMER.OL,True,auto,,Romerike Sparebank,OSL,1.0
+ROSETTI MARINO S.p.A.,,False,auto,,,,0.0
+ROYAL BANK OF CANADA,RY.TO,True,auto,,Royal Bank of Canada,TOR,1.0
+ROYAL SCHIPHOL GROUP N.V.,,False,auto,,,,0.0
+RTE,,False,auto,,"Rest EZ, Inc.",OTCM,0.5
+RWE AG,RWE.DE,True,auto,,RWE Aktiengesellschaft,GER,1.0
+RZD CAPITAL PLC,,False,auto,,,,0.0
+Reno de Medici SpA,,False,auto,,,,0.0
+Repsol International Finance BV,REP.MC,True,auto,,"Repsol, S.A.",MCE,1.0
+Rogaland Sparebank,ROGS.OL,True,manual,home listing,,,1.0
+RÖNESANS HOLDING A.Ş.,,False,auto,,,,0.0
+SAINT-GOBAIN (COMPAGNIE DE),SGO.PA,True,auto,,Compagnie de Saint-Gobain S.A.,PAR,1.0
+SAMHÄLLSBYGGNADSBOLAGETNORDEN AB,SBB-B.ST,True,manual,listed parent,,,0.0
+SAMSIC,,False,auto,,,,0.0
+SANOFI,SAN.PA,True,manual,home listing instead of ADR,,,1.0
+SANTANDER CONSUMER BANK AS,,False,auto,,,,0.0
+SANTANDER INTERNATIONAL PRODUCTS PLC,,False,auto,,,,0.0
+SAS NERVAL,,False,auto,,,,0.0
+SATO CORPORATION,6287.T,False,manual,wrong match or not stock-listed,Sato Corporation,JPX,1.0
+SBAB BANK AB,,False,auto,,,,0.0
+SBB TREASURY OYJ,SBB-B.ST,True,manual,financing vehicle of listed parent SBB,,,0.95
+SCHNEIDER ELECTRIC SE,SU.PA,True,auto,,Schneider Electric S.E.,PAR,1.0
+SEASPAN CORPORATION,,False,auto,,,,0.0
+SECURITAS AB,SECU-B.ST,True,auto,,Securitas AB (publ),STO,1.0
+SELP FINANCE S.A R.L.,,False,auto,,,,0.0
+SENVION HOLDING GMBH,,False,auto,,,,0.0
+SFL Corporation Ltd.,SFL,True,auto,,SFL Corporation Ltd.,NYQ,1.0
+SKANDINAVISKA ENSKILDA BANKEN AB,SEB-A.ST,True,auto,,Skandinaviska Enskilda Banken AB (publ),STO,1.0
+SLOVENSKÉ ELEKTRÁRNE,,False,auto,,,,0.0
+SMURFIT WESTROCK,SW,True,auto,,Smurfit Westrock Plc,NYQ,1.0
+SOCIEDADE BIOELETRICA MONDEGO,,False,auto,,,,0.0
+SOCIETE GENERALE,GLE.PA,True,auto,,Société Générale Société anonyme,PAR,1.0
+SOLO SOLE,,False,auto,,,,0.0
+SORGENTI EMILIANE MODENA,,False,auto,,,,0.0
+SPIE,SPIE.PA,True,auto,,SPIE SA,PAR,1.0
+SSAB AB,SSAB-B.ST,True,auto,,SSAB AB (publ),STO,1.0
+SSB Boligkreditt,,False,auto,,,,0.0
+STADSHYPOTEK AB,,False,auto,,,,0.0
+STANDARD CHARTERED BANK,STAN.L,True,manual,listed parent,,,0.0
+STATKRAFT AS,,False,auto,,,,0.0
+STATNETT SF,,False,auto,,,,0.0
+STEDIN HOLDING NV,,False,auto,,,,0.0
+STELLANTIS,STLAM.MI,True,manual,European listing,,,1.0
+STOREBRAND LIVSFORSIKRING AS,,False,auto,,,,0.0
+SUEZ,,False,auto,,Südzucker AG,PNK,0.31
+SVENSKA HANDELSBANKEN AB,SHB-A.ST,True,auto,,Svenska Handelsbanken AB (publ),STO,1.0
+SWEDBANK AB,SWED-A.ST,True,auto,,Swedbank AB (publ),STO,1.0
+SWEIHAN PV POWER COMPANY PJSC,,False,auto,,,,0.0
+SWISSCOM FINANCE,SCMN.SW,True,auto,,Swisscom AG,EBS,1.0
+SYDBANK A/S,ALSYDB.CO,True,auto,,AL Sydbank A/S,CPH,1.0
+SalMar ASA,SALM.OL,True,auto,,SalMar ASA,OSL,1.0
+Scatec ASA,SCATC.OL,True,auto,,Scatec ASA,OSL,1.0
+Senvion Holding GmbH (Pre-Reincorporation),,False,auto,,,,0.0
+Skue Sparebank,SKUE.OL,True,auto,,Skue Sparebank,OSL,1.0
+Småkraft,,False,auto,,,,0.0
+Snam S.p.A.,SRG.MI,True,auto,,Snam S.p.A.,MIL,1.0
+Sociedade Independente de Comunicação,,False,auto,,,,0.0
+Sogn og Fjordane Energi AS,,False,auto,,,,0.0
+Solis Bond Company DAC,,False,auto,,,,0.0
+Spar Nord,SPNO.CO,True,manual,missed by search,,,0.0
+SpareBank 1,RING.OL,False,manual,wrong match or not stock-listed,SpareBank 1 Ringerike Hadeland,OSL,1.0
+Sparebanken Møre,MORG.OL,True,manual,missed by search,,,0.0
+Sparebanken Sogn og Fjordane,,False,auto,,,,0.0
+Sparebanken Sør Boligkreditt,,False,auto,,,,0.0
+Sparebanken Vest,SVEG.OL,True,manual,home listing,,,0.85
+Sparebanken Øst,SPOG.OL,True,manual,missed by search,,,0.0
+Spareskillingsbanken,,False,auto,,,,0.0
+Steen & Strøm AS,,False,auto,,,,0.0
+Storebrand,STB.OL,True,auto,,Storebrand ASA,OSL,1.0
+Storebrand ASA,STB.OL,True,auto,,Storebrand ASA,OSL,1.0
+Sunndal Sparebank,,False,auto,,,,0.0
+Sunnhordland Kraftlag AS,,False,auto,,,,0.0
+SÉCHÉ ENVIRONNEMENT,SCHP.PA,True,manual,missed by search,,,0.0
+TAGUS-SOC.TITUL.CREDITOS S.A.,,False,auto,,,,0.0
+TELECOM ITALIA CAPITAL,TIT.MI,True,manual,listed parent Telecom Italia,,,0.0
+TELEFONAKTIEBOLAGET LM ERICSSON,ERIC-B.ST,True,manual,home listing instead of ADR,,,1.0
+TELEFONICA,TEF.MC,True,auto,,"Telefónica, S.A.",MCE,1.0
+TELEPERFORMANCE,TEP.PA,True,auto,,Teleperformance SE,PAR,1.0
+TENNET HOLDING B.V.,,False,auto,,,,0.0
+TERNA ENERGY,TENERGY.AT,True,manual,missed by search,,,0.0
+TERNA S.p.A.,TRN.MI,True,auto,,Terna S.p.A.,MIL,1.0
+TEVA PHARMACEUTICAL FINANCE II BV,TEVA,True,manual,listed parent Teva,,,0.0
+THAMES WATER FINANCE,,False,auto,,,,0.0
+THE NAVIGATOR COMP,NVG.LS,True,auto,,"The Navigator Company, S.A.",LIS,1.0
+THE WEIR GROUP,WEIR.L,True,auto,,Weir PLC,LSE,1.0
+THERMO FISHER SCIENTIFIC B.V.,TMO,True,auto,,Thermo Fisher Scientific Inc.,NYQ,1.0
+THREE GORGES FINANCE II (CAYMAN ISLANDS) LIMITED,,False,auto,,,,0.0
+TIKEHAU,TKO.PA,True,auto,,Tikehau Capital,PAR,1.0
+TOUAX,ALTOU.PA,True,auto,,Touax SCA,PAR,1.0
+TRANSMISSION FINANCE,ALSN,False,manual,wrong match or not stock-listed,"Allison Transmission Holdings, Inc.",NYQ,1.0
+TRIODOS BANK N.V.,TRIO.AS,True,auto,,Triodos Bank N.V.,AMS,1.0
+TRITAX,BBOX.L,True,auto,,Tritax Big Box Ord,LSE,1.0
+TURKCELL ILETISIM HIZMETLERI A.S.,TCELL.IS,True,manual,home listing,,,1.0
+TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.,,False,auto,,,,0.0
+TURKIYE GARANTI BANKASI A.S.,GARAN.IS,True,auto,,Turkiye Garanti Bankasi A.S.,IST,1.0
+TURKIYE IS BANKASI A.S.,ISCTR.IS,True,manual,missed by search,,,0.0
+TURKIYE VAKIFLAR BANKASI T.A.O,VAKBN.IS,True,manual,missed by search,,,0.0
+Telefonaktiebolaget LM Ericsson,ERIC-B.ST,True,manual,home listing instead of ADR,,,1.0
+TenneT Holding B.V.,,False,auto,,,,0.0
+Tensio AS,,False,auto,,,,0.0
+Terra Moretti,,False,auto,,,,0.0
+Tinde Sparebank,TINDE.OL,True,auto,,Tinde Sparebank,OSL,1.0
+Tine SA,,False,auto,,"Tinergy Chemical Co., Ltd.",SHZ,0.4
+Tomra Systems ASA,TOM.OL,True,auto,,Tomra Systems ASA,OSL,1.0
+TrønderEnergi AS,,False,auto,,,,0.0
+TÜRK TELEKOMÜNIKASYON A.S.,TTKOM.IS,True,manual,missed by search,,,0.0
+TÜRKIYE SINAI KALKINMA BANKASI A.S,TSKB.IS,True,manual,missed by search,,,0.0
+UBS AG,UBSG.SW,True,manual,home listing,,,1.0
+UNIBAIL-RODAMCO,URW.PA,True,auto,,Unibail-Rodamco-Westfield SE,PAR,0.8
+UNICREDIT ITALIANO SpA,UCG.MI,True,manual,missed by search,,,0.0
+UPM KYMMENE CORPORATION,UPM.HE,True,auto,,UPM-Kymmene Oyj,HEL,0.96
+Unipol S.p.A.,UNI.MI,True,auto,,Unipol Assicurazioni S.p.A.,MIL,1.0
+VAA-VISTA ALEGRE ATLANTIS SA,VAF.LS,True,manual,missed by search,,,0.0
+VALEO,FR.PA,True,auto,,Valeo SE,PAR,1.0
+VANTAGE DATA CENTERS JERSEY BORROWER SPV LIMITED,,False,auto,,,,0.0
+VERALLIA,VRLA.PA,True,auto,,Verallia Société Anonyme,PAR,1.0
+VERITAS,BVI.PA,True,auto,,Bureau Veritas SA,PAR,1.0
+VESTAS WIND SYSTEMS,VWS.CO,True,auto,,Vestas Wind Systems A/S,CPH,1.0
+VESTEDA FINANCE BV,,False,auto,,,,0.0
+VIA OUTLETS,,False,auto,,,,0.0
+VINCI,DG.PA,True,auto,,Vinci SA,PAR,1.0
+VODAFONE GROUP PLC,VOD.L,True,manual,home listing,,,1.0
+VOESTALPINE AG,VOE.VI,True,auto,,Voestalpine AG,VIE,1.0
+VOLKSWAGEN,VOW3.DE,True,auto,,Volkswagen AG,GER,1.0
+VOLTALIA,VLTSA.PA,True,auto,,Voltalia SA,PAR,1.0
+VZ VENDOR FINANCING,,False,auto,,,,0.0
+Vasakronan AB,,False,auto,,,,0.0
+Veas Selvkost AS,,False,auto,,,,0.0
+Vegfinans Vestfold og Telemark,,False,auto,,,,0.0
+Vegfinans Viken AS,,False,auto,,,,0.0
+Veolia,VIE.PA,True,auto,,Veolia Environnement SA,PAR,1.0
+Verd Boligkreditt AS,,False,auto,,,,0.0
+Virgin Media O2,,False,auto,,,,0.0
+VÍA CÉLERE DESARROLLOS INMOBILIARIOS,,False,auto,,,,0.0
+WABTEC TRANSPORTATION NETHERLANDS B.V,WAB,True,manual,listed parent Wabtec,,,0.0
+WEBUILD S.P.A,WBD.MI,True,auto,,Webuild S.p.A.,MIL,1.0
+WERELDHAVE BELGIUM,WEHB.BR,True,auto,,Wereldhave Belgium,BRU,1.0
+WIENERBERGER AG,WIE.VI,True,auto,,Wienerberger AG,VIE,1.0
+WORKCE GROUP,,False,auto,,,,0.0
+Wallenius Wilhelmsen ASA,WAWI.OL,True,auto,,Wallenius Wilhelmsen ASA,OSL,1.0
+YAPI VE KREDI BANKASI AS,YKBNK.IS,True,auto,,Yapi ve Kredi Bankasi A.S.,IST,1.0
+Yara,YAR.OL,True,manual,home listing instead of ADR,,,1.0
+ZIKLO BANK,,False,auto,,,,0.0
+Zorlu Group,ZOREN.IS,True,auto,,Zorlu Enerji Elektrik Üretim A.S.,IST,1.0
+auxmoney,,False,auto,,,,0.0
+momox Holding GmbH,,False,auto,,,,0.0
+twma,,False,auto,,,,0.0
+Å Energi AS,VAR.OL,False,manual,wrong match or not stock-listed,Vår Energi ASA,OSL,0.94
+Østfold Energi,,False,auto,,,,0.0
+Øyfjellet Wind Investment AS,,False,auto,,,,0.0
+ÜLKER BISKÜVI SANAYI A.S.,ULKER.IS,True,manual,missed by search,,,0.0
