@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.streamlit/
+data/ticker_search_cache.json
+# Third-party data: check each provider's terms before publishing these files.
+# Yahoo Finance does not allow redistribution of its price data.
+data/prices.csv
+data/prices.csv.gz
