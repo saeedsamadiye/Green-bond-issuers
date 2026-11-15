@@ -413,7 +413,7 @@ def download_prices(tickers, start: str, end: str | None = None) -> pd.DataFrame
     data = yf.download(tickers, start=start, end=end, auto_adjust=True, progress=False, threads=True)
     if data is None or data.empty:
         raise ConnectionError("Yahoo Finance returned no data. Check the internet connection "
-                              "(a VPN may be needed).")
+                              "and try again.")
     close = data["Close"] if isinstance(data.columns, pd.MultiIndex) else data[["Close"]]
     if not isinstance(data.columns, pd.MultiIndex):
         close.columns = tickers

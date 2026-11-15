@@ -220,7 +220,7 @@ else:
         """Download missing prices, exchange rates, firm info, earnings dates and factors."""
         import contextlib
         buf = io.StringIO()
-        with st.spinner("Downloading data (a few minutes; Yahoo may need a VPN)..."):
+        with st.spinner("Downloading data (this takes a few minutes)..."):
             with contextlib.redirect_stdout(buf):
                 eng.update_data(str(DATA_DIR))
         cached_folder.clear()
