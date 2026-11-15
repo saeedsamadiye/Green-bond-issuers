@@ -185,4 +185,4 @@ Badía, G., Cortez, M. C. and Silva, F. (2024). Do investors benefit from invest
 
 ## Author
 
-Saeed Samadiye. Code written with AI assistance (Claude, Anthropic).
+Saeed Samadiye. Code modified with AI assistance.
