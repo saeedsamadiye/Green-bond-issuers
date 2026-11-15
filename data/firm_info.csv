@@ -1,0 +1,575 @@
+ticker,name,country,sector,industry,currency,source
+A2A.MI,A2A S.p.A.,Italy,Utilities,Utilities - Diversified,EUR,yahoo
+A5G.IR,AIB Group plc,Ireland,Financial Services,Banks - Regional,EUR,yahoo
+AAF.L,Airtel Africa Plc,United Kingdom,Communication Services,Telecom Services,GBp,yahoo
+AAL.L,Anglo American plc,United Kingdom,Basic Materials,Other Industrial Metals & Mining,GBp,yahoo
+ABB.ST,ABB Ltd,Switzerland,Industrials,Electrical Equipment & Parts,SEK,yahoo
+ABBN.SW,ABB Ltd,Switzerland,Industrials,Electrical Equipment & Parts,CHF,yahoo
+ABDN.L,Aberdeen Group Plc,United Kingdom,Financial Services,Asset Management,GBp,yahoo
+ABF.L,Associated British Foods plc,United Kingdom,Consumer Defensive,Packaged Foods,GBp,yahoo
+ABI.BR,Anheuser-Busch InBev SA/NV,Belgium,Consumer Defensive,Beverages - Brewers,EUR,yahoo
+ABN.AS,ABN AMRO Bank N.V.,Netherlands,Financial Services,Banks - Diversified,EUR,yahoo
+AC.PA,Accor SA,France,Consumer Cyclical,Lodging,EUR,yahoo
+ACA.PA,Crédit Agricole S.A.,France,Financial Services,Banks - Diversified,EUR,yahoo
+ACE.MI,ACEA S.p.A.,Italy,Utilities,Utilities - Diversified,EUR,yahoo
+ACKB.BR,Ackermans & Van Haaren NV,Belgium,Industrials,Engineering & Construction,EUR,yahoo
+ACS.MC,"ACS, Actividades de Construcción y Servicios, S.A.",Spain,Industrials,Engineering & Construction,EUR,yahoo
+ACX.MC,"Acerinox, S.A.",Spain,Basic Materials,Steel,EUR,yahoo
+AD.AS,Koninklijke Ahold Delhaize N.V.,Netherlands,Consumer Defensive,Grocery Stores,EUR,yahoo
+ADCB.AE,,,,,,yahoo
+ADDT-B.ST,Addtech AB (publ.),Sweden,Industrials,Industrial Distribution,SEK,yahoo
+ADM.L,Admiral Group plc,United Kingdom,Financial Services,Insurance - Property & Casualty,GBp,yahoo
+ADS.DE,adidas AG,Germany,Consumer Cyclical,Footwear & Accessories,EUR,yahoo
+ADYEN.AS,Adyen N.V.,Netherlands,Technology,Software - Infrastructure,EUR,yahoo
+AED.BR,Aedifica NV/SA,Belgium,Real Estate,REIT - Healthcare Facilities,EUR,yahoo
+AENA.MC,"Aena S.M.E., S.A.",Spain,Industrials,Airports & Air Services,EUR,yahoo
+AF.PA,Air France-KLM SA,France,Industrials,Airlines,EUR,yahoo
+AGLX.OL,Agilyx ASA,Norway,Industrials,Waste Management,NOK,yahoo
+AGN.AS,Aegon Ltd.,Netherlands,Financial Services,Insurance - Diversified,EUR,yahoo
+AGR.L,,,,,,yahoo
+AGS.BR,ageas SA/NV,Belgium,Financial Services,Insurance - Diversified,EUR,yahoo
+AI.PA,L'Air Liquide S.A.,France,Basic Materials,Specialty Chemicals,EUR,yahoo
+AIR.PA,Airbus SE,Netherlands,Industrials,Aerospace & Defense,EUR,yahoo
+AKBNK.IS,Akbank T.A.S.,Turkey,Financial Services,Banks - Regional,TRY,yahoo
+AKE.PA,Arkema S.A.,France,Basic Materials,Specialty Chemicals,EUR,yahoo
+AKRBP.OL,Aker BP ASA,Norway,Energy,Oil & Gas E&P,NOK,yahoo
+AKZA.AS,Akzo Nobel N.V.,Netherlands,Basic Materials,Specialty Chemicals,EUR,yahoo
+ALC.SW,Alcon Inc.,Switzerland,Healthcare,Medical Instruments & Supplies,CHF,yahoo
+ALDAR.AE,,,,,,yahoo
+ALFA.ST,Alfa Laval AB (publ),Sweden,Industrials,Specialty Industrial Machinery,SEK,yahoo
+ALO.PA,Alstom SA,France,Industrials,Railroads,EUR,yahoo
+ALSYDB.CO,AL Sydbank A/S,Denmark,Financial Services,Banks - Regional,DKK,yahoo
+ALTOU.PA,Touax SCA,France,Industrials,Rental & Leasing Services,EUR,yahoo
+ALTR.LS,"Altri, SGPS, S.A.",Portugal,Basic Materials,Paper & Paper Products,EUR,yahoo
+ALV,"Autoliv, Inc.",Sweden,Consumer Cyclical,Auto Parts,USD,yahoo
+ALV.DE,Allianz SE,Germany,Financial Services,Insurance - Diversified,EUR,yahoo
+AMBU-B.CO,Ambu A/S,Denmark,Healthcare,Medical Devices,DKK,yahoo
+AMP.MI,Amplifon S.p.A.,Italy,Healthcare,Medical Distribution,EUR,yahoo
+AMRZ.SW,Amrize AG,Switzerland,Basic Materials,Building Materials,CHF,yahoo
+AMS.MC,"Amadeus IT Group, S.A.",Spain,Technology,Information Technology Services,EUR,yahoo
+ANA.MC,"Acciona, S.A.",Spain,Industrials,Engineering & Construction,EUR,yahoo
+ANE.MC,"Corporación Acciona Energías Renovables, S.A.",Spain,Utilities,Utilities - Renewable,EUR,yahoo
+ANTO.L,Antofagasta plc,United Kingdom,Basic Materials,Copper,GBp,yahoo
+APAM.BR,,,,,,yahoo
+ARCLK.IS,Arçelik Anonim Sirketi,Turkey,Consumer Cyclical,"Furnishings, Fixtures & Appliances",TRY,yahoo
+ARG.PA,Argan SA,France,Real Estate,REIT - Industrial,EUR,yahoo
+ARGX.BR,argenx SE,Netherlands,Healthcare,Biotechnology,EUR,yahoo
+ARN.MI,Alerion Clean Power S.p.A.,Italy,Utilities,Utilities - Renewable,EUR,yahoo
+ASM.AS,ASM International NV,Netherlands,Technology,Semiconductor Equipment & Materials,EUR,yahoo
+ASML.AS,ASML Holding N.V.,Netherlands,Technology,Semiconductor Equipment & Materials,EUR,yahoo
+ASRNL.AS,ASR Nederland N.V.,Netherlands,Financial Services,Insurance - Diversified,EUR,yahoo
+ASSA-B.ST,ASSA ABLOY AB (publ),Sweden,Industrials,Security & Protection Services,SEK,yahoo
+ATCO-A.ST,Atlas Copco AB (publ),Sweden,Industrials,Specialty Industrial Machinery,SEK,yahoo
+ATEB.BR,Atenor SA,Belgium,Real Estate,Real Estate - Development,EUR,yahoo
+ATO.PA,Atos Group,France,Technology,Information Technology Services,EUR,yahoo
+AURG.OL,Aurskog Sparebank,Norway,Financial Services,Banks - Regional,NOK,yahoo
+AUTO.L,Autotrader Group plc,United Kingdom,Communication Services,Internet Content & Information,GBp,yahoo
+AV.L,Aviva plc,United Kingdom,Financial Services,Insurance - Diversified,GBp,yahoo
+AVIO.MI,Avio S.p.A.,Italy,Industrials,Aerospace & Defense,EUR,yahoo
+AYDEM.IS,Aydem Yenilenebilir Enerji A.S.,Turkey,Utilities,Utilities - Renewable,TRY,yahoo
+AZE.BR,Azelis Group NV,Belgium,Basic Materials,Specialty Chemicals,EUR,yahoo
+AZM.MI,Azimut Holding S.p.A.,Italy,Financial Services,Asset Management,EUR,yahoo
+AZN.L,AstraZeneca PLC,United Kingdom,Healthcare,Drug Manufacturers - General,GBp,yahoo
+AZN.ST,AstraZeneca PLC,United Kingdom,Healthcare,Drug Manufacturers - General,SEK,yahoo
+BA.L,BAE Systems plc,United Kingdom,Industrials,Aerospace & Defense,GBp,yahoo
+BAB.L,Babcock International Group PLC,United Kingdom,Industrials,Engineering & Construction,GBp,yahoo
+BAMI.MI,Banco BPM S.p.A.,Italy,Financial Services,Banks - Regional,EUR,yahoo
+BARC.L,Barclays PLC,United Kingdom,Financial Services,Banks - Diversified,GBp,yahoo
+BAS.DE,BASF SE,Germany,Basic Materials,Chemicals,EUR,yahoo
+BATS.L,British American Tobacco p.l.c.,United Kingdom,Consumer Defensive,Tobacco,GBp,yahoo
+BAYN.DE,Bayer Aktiengesellschaft,Germany,Healthcare,Drug Manufacturers - General,EUR,yahoo
+BBOX.L,Tritax Big Box Ord,,,,GBp,yahoo
+BBVA.MC,"Banco Bilbao Vizcaya Argentaria, S.A.",Spain,Financial Services,Banks - Diversified,EUR,yahoo
+BC.MI,Brunello Cucinelli S.p.A.,Italy,Consumer Cyclical,Luxury Goods,EUR,yahoo
+BCP.LS,"Banco Comercial Português, S.A.",Portugal,Financial Services,Banks - Regional,EUR,yahoo
+BEI.DE,Beiersdorf Aktiengesellschaft,Germany,Consumer Defensive,Household & Personal Products,EUR,yahoo
+BESI.AS,BE Semiconductor Industries N.V.,Netherlands,Technology,Semiconductor Equipment & Materials,EUR,yahoo
+BEZ.L,Beazley PLC,United Kingdom,Financial Services,Insurance - Specialty,GBp,yahoo
+BFF.MI,BFF Bank S.p.A.,Italy,Financial Services,Credit Services,EUR,yahoo
+BGEO.L,Lion Finance Group PLC,United Kingdom,Financial Services,Banks - Regional,GBp,yahoo
+BIRG.IR,Bank of Ireland Group plc,Ireland,Financial Services,Banks - Regional,EUR,yahoo
+BKT.MC,"Bankinter, S.A.",Spain,Financial Services,Banks - Regional,EUR,yahoo
+BLND.L,British Land Company PLC,United Kingdom,Real Estate,REIT - Diversified,GBp,yahoo
+BMED.MI,Banca Mediolanum S.p.A.,Italy,Financial Services,Banks - Regional,EUR,yahoo
+BMK.L,,,,,,yahoo
+BMPS.MI,Banca Monte dei Paschi di Siena S.p.A.,Italy,Financial Services,Banks - Regional,EUR,yahoo
+BMW.DE,Bayerische Motoren Werke Aktiengesellschaft,Germany,Consumer Cyclical,Auto Manufacturers,EUR,yahoo
+BN.PA,Danone S.A.,France,Consumer Defensive,Packaged Foods,EUR,yahoo
+BNP.PA,BNP Paribas SA,France,Financial Services,Banks - Regional,EUR,yahoo
+BNR.DE,Brenntag SE,Germany,Basic Materials,Specialty Chemicals,EUR,yahoo
+BNZL.L,Bunzl plc,United Kingdom,Industrials,Specialty Business Services,GBp,yahoo
+BOL.ST,Boliden AB (publ),Sweden,Basic Materials,Other Industrial Metals & Mining,SEK,yahoo
+BONHR.OL,Bonheur ASA,Norway,Industrials,Conglomerates,NOK,yahoo
+BP.L,BP p.l.c.,United Kingdom,Energy,Oil & Gas Integrated,GBp,yahoo
+BPE.MI,BPER Banca SpA,Italy,Financial Services,Banks - Regional,EUR,yahoo
+BPSO.MI,,,,,,yahoo
+BRBY.L,Burberry Group plc,United Kingdom,Consumer Cyclical,Luxury Goods,GBp,yahoo
+BRG.OL,Borregaard ASA,Norway,Basic Materials,Specialty Chemicals,NOK,yahoo
+BT-A.L,BT Group plc,United Kingdom,Communication Services,Telecom Services,GBp,yahoo
+BTRW.L,Barratt Redrow plc,United Kingdom,Consumer Cyclical,Residential Construction,GBp,yahoo
+BVI.PA,Bureau Veritas SA,France,Industrials,Consulting Services,EUR,yahoo
+BWLPG.OL,BW LPG Limited,Singapore,Energy,Oil & Gas Midstream,NOK,yahoo
+BZU.MI,Buzzi S.p.A.,Italy,Basic Materials,Building Materials,EUR,yahoo
+C,Citigroup Inc.,United States,Financial Services,Banks - Diversified,USD,yahoo
+CA.PA,Carrefour SA,France,Consumer Defensive,Grocery Stores,EUR,yahoo
+CABK.MC,"CaixaBank, S.A.",Spain,Financial Services,Banks - Regional,EUR,yahoo
+CAP.PA,Capgemini SE,France,Technology,Information Technology Services,EUR,yahoo
+CARL-B.CO,Carlsberg A/S,Denmark,Consumer Defensive,Beverages - Brewers,DKK,yahoo
+CARM.PA,Carmila S.A.,France,Real Estate,REIT - Retail,EUR,yahoo
+CBD.AE,Commercial Bank of Dubai PSC,United Arab Emirates,Financial Services,Banks - Regional,AED,yahoo
+CBK.DE,Commerzbank AG,Germany,Financial Services,Banks - Regional,EUR,yahoo
+CCC.L,Computacenter plc,United Kingdom,Technology,Information Technology Services,GBp,yahoo
+CCEP.L,Coca-Cola Europacific Partners PLC,United Kingdom,Consumer Defensive,Beverages - Non-Alcoholic,GBp,yahoo
+CCH.L,Coca-Cola HBC AG,Switzerland,Consumer Defensive,Beverages - Non-Alcoholic,GBp,yahoo
+CCOLA.IS,Coca-Cola Içecek Anonim Sirketi,Turkey,Consumer Defensive,Beverages - Non-Alcoholic,TRY,yahoo
+CE.MI,Credito Emiliano S.p.A.,Italy,Financial Services,Banks - Regional,EUR,yahoo
+CFR.SW,Compagnie Financière Richemont SA,Switzerland,Consumer Cyclical,Luxury Goods,CHF,yahoo
+CLARI.PA,Clariane SE,France,Healthcare,Medical Care Facilities,EUR,yahoo
+CLNX.MC,"Cellnex Telecom, S.A.",Spain,Real Estate,Real Estate Services,EUR,yahoo
+CNA.L,Centrica plc,United Kingdom,Utilities,Utilities - Independent Power Producers,GBp,yahoo
+COFB.BR,,,,,,yahoo
+COL.MC,"Colonial SFL, Socimi S. A.",Spain,Real Estate,REIT - Office,EUR,yahoo
+COLO-B.CO,Coloplast A/S,Denmark,Healthcare,Medical Instruments & Supplies,DKK,yahoo
+COLR.BR,Colruyt Group N.V.,Belgium,Consumer Defensive,Grocery Stores,EUR,yahoo
+CON.DE,Continental Aktiengesellschaft,Germany,Consumer Cyclical,Auto Parts,EUR,yahoo
+COR.LS,"Corticeira Amorim, S.G.P.S., S.A.",Portugal,Basic Materials,Lumber & Wood Production,EUR,yahoo
+COV.PA,Covivio,France,Real Estate,REIT - Diversified,EUR,yahoo
+CPG.L,Compass Group PLC,United Kingdom,Consumer Cyclical,Restaurants,USD,yahoo
+CPINV.BR,Care Property Invest NV,Belgium,Real Estate,REIT - Healthcare Facilities,EUR,yahoo
+CPR.MI,Davide Campari-Milano N.V.,Italy,Consumer Defensive,Beverages - Wineries & Distilleries,EUR,yahoo
+CRDA.L,Croda International Plc,United Kingdom,Basic Materials,Specialty Chemicals,GBp,yahoo
+CRI.PA,Belgrano,France,Industrials,Conglomerates,EUR,yahoo
+CS.PA,AXA SA,France,Financial Services,Insurance - Diversified,EUR,yahoo
+CTEC.L,Convatec Group PLC,United Kingdom,Healthcare,Medical Instruments & Supplies,GBp,yahoo
+CTPNV.AS,CTP N.V.,Netherlands,Real Estate,Real Estate - Development,EUR,yahoo
+CTT.LS,"CTT - Correios De Portugal, S.A.",Portugal,Industrials,Integrated Freight & Logistics,EUR,yahoo
+CTY1S.HE,Citycon Oyj,Finland,Real Estate,Real Estate - Diversified,EUR,yahoo
+DANSKE.CO,Danske Bank A/S,Denmark,Financial Services,Banks - Regional,DKK,yahoo
+DB1.DE,Deutsche Börse AG,Germany,Financial Services,Financial Data & Stock Exchanges,EUR,yahoo
+DBK.DE,Deutsche Bank Aktiengesellschaft,Germany,Financial Services,Banks - Regional,EUR,yahoo
+DCC.L,DCC Energy plc,Ireland,Energy,Oil & Gas Refining & Marketing,GBp,yahoo
+DEMANT.CO,Demant A/S,Denmark,Healthcare,Medical Devices,DKK,yahoo
+DG.PA,Vinci SA,France,Industrials,Engineering & Construction,EUR,yahoo
+DGE.L,Diageo plc,United Kingdom,Consumer Defensive,Beverages - Wineries & Distilleries,GBp,yahoo
+DHL.DE,DHL AG,Germany,Industrials,Integrated Freight & Logistics,EUR,yahoo
+DIE.BR,D'Ieteren Group SA,Belgium,Consumer Cyclical,Auto & Truck Dealerships,EUR,yahoo
+DNB.OL,DNB Bank ASA,Norway,Financial Services,Banks - Regional,NOK,yahoo
+DPLM.L,Diploma PLC,United Kingdom,Industrials,Industrial Distribution,GBp,yahoo
+DSFIR.AS,DSM-Firmenich AG,Switzerland,Basic Materials,Specialty Chemicals,EUR,yahoo
+DSV.CO,DSV A/S,Denmark,Industrials,Integrated Freight & Logistics,DKK,yahoo
+DSY.PA,Dassault Systèmes SE,France,Technology,Software - Application,EUR,yahoo
+DTE.DE,Deutsche Telekom AG,Germany,Communication Services,Telecom Services,EUR,yahoo
+DTG.DE,Daimler Truck Holding AG,Germany,Industrials,Farm & Heavy Construction Machinery,EUR,yahoo
+EBK.DE,EnBW Energie Baden-Württemberg AG,Germany,Utilities,Utilities - Diversified,EUR,yahoo
+EDEN.PA,Edenred SE,France,Financial Services,Credit Services,EUR,yahoo
+EDP.LS,"EDP, S.A.",Portugal,Utilities,Utilities - Diversified,EUR,yahoo
+EDPR.LS,"EDP Renewables, S.A.",Spain,Utilities,Utilities - Renewable,EUR,yahoo
+EDV.L,Endeavour Mining plc,United Kingdom,Basic Materials,Gold,GBp,yahoo
+EGL.LS,"Mota-Engil, SGPS, S.A.",Portugal,Industrials,Engineering & Construction,EUR,yahoo
+EL.PA,EssilorLuxottica Société anonyme,France,Healthcare,Medical Instruments & Supplies,EUR,yahoo
+ELE.MC,"Endesa, S.A.",Spain,Utilities,Utilities - Regulated Electric,EUR,yahoo
+ELI.BR,Elia Group SA/NV,Belgium,Utilities,Utilities - Regulated Electric,EUR,yahoo
+ELISA.HE,Elisa Oyj,Finland,Communication Services,Telecom Services,EUR,yahoo
+ELK.OL,Elkem ASA,Norway,Basic Materials,Specialty Chemicals,NOK,yahoo
+ELO.OL,Elopak ASA,Norway,Consumer Cyclical,Packaging & Containers,NOK,yahoo
+EMEIS.PA,emeis Société anonyme,France,Healthcare,Medical Care Facilities,EUR,yahoo
+EMIRATESNBD.AE,Emirates NBD Bank PJSC,United Arab Emirates,Financial Services,Banks - Regional,AED,yahoo
+EN.PA,Bouygues SA,France,Industrials,Engineering & Construction,EUR,yahoo
+ENEL.MI,Enel SpA,Italy,Utilities,Utilities - Diversified,EUR,yahoo
+ENG.MC,"Enagás, S.A.",Spain,Utilities,Utilities - Regulated Gas,EUR,yahoo
+ENGI.PA,Engie SA,France,Utilities,Utilities - Diversified,EUR,yahoo
+ENI.MI,Eni S.p.A.,Italy,Energy,Oil & Gas Integrated,EUR,yahoo
+ENR.DE,Siemens Energy AG,Germany,Industrials,Specialty Industrial Machinery,EUR,yahoo
+ENTRA.OL,Entra ASA,Norway,Real Estate,Real Estate Services,NOK,yahoo
+ENX.PA,Euronext N.V.,Netherlands,Financial Services,Financial Data & Stock Exchanges,EUR,yahoo
+EOAN.DE,E.ON SE,Germany,Utilities,Utilities - Diversified,EUR,yahoo
+EPI-A.ST,Epiroc AB (publ),Sweden,Industrials,Farm & Heavy Construction Machinery,SEK,yahoo
+EQB.TO,EQB Inc.,Canada,Financial Services,Banks - Regional,CAD,yahoo
+EQNR.OL,Equinor ASA,Norway,Energy,Oil & Gas Integrated,NOK,yahoo
+EQT.ST,EQT AB (publ),Sweden,Financial Services,Asset Management,SEK,yahoo
+ERA.PA,ERAMET S.A.,France,Basic Materials,Other Industrial Metals & Mining,EUR,yahoo
+ERF.PA,Eurofins Scientific SE,Luxembourg,Healthcare,Diagnostics & Research,EUR,yahoo
+ERIC-B.ST,Telefonaktiebolaget LM Ericsson (publ),Sweden,Technology,Communication Equipment,SEK,yahoo
+ESSITY-B.ST,Essity AB (publ),Sweden,Consumer Defensive,Household & Personal Products,SEK,yahoo
+EVO.ST,Evolution AB (publ),Sweden,Consumer Cyclical,Gambling,SEK,yahoo
+EXO.AS,Exor N.V.,Netherlands,Financial Services,Asset Management,EUR,yahoo
+EXPN.L,Experian plc,Ireland,Industrials,Consulting Services,GBp,yahoo
+EZJ.L,easyJet plc,United Kingdom,Industrials,Airlines,GBp,yahoo
+FBK.MI,FinecoBank Banca Fineco S.p.A.,Italy,Financial Services,Banks - Regional,EUR,yahoo
+FCT.MI,Fincantieri S.p.A.,Italy,Industrials,Aerospace & Defense,EUR,yahoo
+FDR.MC,"Fluidra, S.A.",Spain,Consumer Cyclical,Leisure,EUR,yahoo
+FEMSAUBD.MX,"Fomento Económico Mexicano, S.A.B. de C.V.",Mexico,Consumer Defensive,Beverages - Brewers,MXN,yahoo
+FER.MC,Ferrovial N.V.,Netherlands,Industrials,Engineering & Construction,EUR,yahoo
+FFSB.OL,Flekkefjord Sparebank,Norway,Financial Services,Banks - Regional,NOK,yahoo
+FGR.PA,Eiffage SA,France,Industrials,Engineering & Construction,EUR,yahoo
+FLS.CO,FLSmidth & Co. A/S,Denmark,Industrials,Specialty Industrial Machinery,DKK,yahoo
+FME.DE,Fresenius Medical Care AG,Germany,Healthcare,Medical Care Facilities,EUR,yahoo
+FORTUM.HE,Fortum Oyj,Finland,Utilities,Utilities - Renewable,EUR,yahoo
+FR.PA,Valeo SE,France,Consumer Cyclical,Auto Parts,EUR,yahoo
+FRE.DE,Fresenius SE & Co. KGaA,Germany,Healthcare,Medical Care Facilities,EUR,yahoo
+FRES.L,Fresnillo plc,Mexico,Basic Materials,Other Precious Metals & Mining,GBp,yahoo
+FRO.OL,Frontline plc,Cyprus,Energy,Oil & Gas Midstream,NOK,yahoo
+FRVIA.PA,Forvia SE,France,Consumer Cyclical,Auto Parts,EUR,yahoo
+FUNO11.MX,Fibra UNO,Mexico,Real Estate,REIT - Diversified,MXN,yahoo
+G.MI,Assicurazioni Generali S.p.A.,Italy,Financial Services,Insurance - Diversified,EUR,yahoo
+G1A.DE,GEA Group Aktiengesellschaft,Germany,Industrials,Specialty Industrial Machinery,EUR,yahoo
+G24.DE,Scout24 SE,Germany,Communication Services,Internet Content & Information,EUR,yahoo
+GALP.LS,"Galp Energia, SGPS, S.A.",Portugal,Energy,Oil & Gas Integrated,EUR,yahoo
+GARAN.IS,Turkiye Garanti Bankasi A.S.,Turkey,Financial Services,Banks - Regional,TRY,yahoo
+GAW.L,Games Workshop Group PLC,United Kingdom,Consumer Cyclical,Leisure,GBp,yahoo
+GBLB.BR,Groupe Bruxelles Lambert SA,Belgium,Financial Services,Asset Management,EUR,yahoo
+GEBN.SW,Geberit AG,Switzerland,Industrials,Building Products & Equipment,CHF,yahoo
+GEKTERNA.AT,Gek Terna S.A.,Greece,Industrials,Engineering & Construction,EUR,yahoo
+GET.PA,Getlink SE,France,Industrials,Railroads,EUR,yahoo
+GFC.PA,Gecina,France,Real Estate,REIT - Office,EUR,yahoo
+GIMB.BR,Gimv NV,Belgium,Financial Services,Asset Management,EUR,yahoo
+GIVN.SW,Givaudan SA,Switzerland,Basic Materials,Specialty Chemicals,CHF,yahoo
+GJF.OL,Gjensidige Forsikring ASA,Norway,Financial Services,Insurance - Property & Casualty,NOK,yahoo
+GLE.PA,Société Générale Société anonyme,France,Financial Services,Banks - Regional,EUR,yahoo
+GLEN.L,Glencore plc,Switzerland,Basic Materials,Other Industrial Metals & Mining,GBp,yahoo
+GLJ.DE,Grenke AG,Germany,Financial Services,Credit Services,EUR,yahoo
+GMAB.CO,Genmab A/S,Denmark,Healthcare,Biotechnology,DKK,yahoo
+GN.CO,GN Store Nord A/S,Denmark,Healthcare,Medical Devices,DKK,yahoo
+GOGL.OL,,,,,,yahoo
+GPI.MI,GPI S.p.A.,Italy,Healthcare,Health Information Services,EUR,yahoo
+GRF.MC,"Grifols, S.A.",Spain,Healthcare,Drug Manufacturers - General,EUR,yahoo
+GSF.OL,Grieg Seafood ASA,Norway,Consumer Defensive,Farm Products,NOK,yahoo
+GSK.L,GSK plc,United Kingdom,Healthcare,Drug Manufacturers - General,GBp,yahoo
+GVOLT.LS,,,,,,yahoo
+GWI.L,Globalworth Real Estate Investments Limited,Guernsey,Real Estate,Real Estate Services,EUR,yahoo
+HAFNI.OL,Hafnia Limited,Singapore,Industrials,Marine Shipping,NOK,yahoo
+HAUTO.OL,Höegh Autoliners ASA,Norway,Industrials,Marine Shipping,NOK,yahoo
+HEI.DE,Heidelberg Materials AG,Germany,Basic Materials,Building Materials,EUR,yahoo
+HEIA.AS,Heineken N.V.,Netherlands,Consumer Defensive,Beverages - Brewers,EUR,yahoo
+HEN3.DE,Henkel AG & Co. KGaA,Germany,Consumer Defensive,Household & Personal Products,EUR,yahoo
+HER.MI,Hera S.p.A.,Italy,Utilities,Utilities - Diversified,EUR,yahoo
+HEXA-B.ST,Hexagon AB (publ),Sweden,Technology,Scientific & Technical Instruments,SEK,yahoo
+HGSB.OL,Haugesund Sparebank,Norway,Financial Services,Banks - Regional,NOK,yahoo
+HIAB.HE,Hiab Oyj,Finland,Industrials,Farm & Heavy Construction Machinery,EUR,yahoo
+HLMA.L,Halma plc,United Kingdom,Industrials,Conglomerates,GBp,yahoo
+HLN.L,Haleon plc,United Kingdom,Healthcare,Drug Manufacturers - Specialty & Generic,GBp,yahoo
+HM-B.ST,H & M Hennes & Mauritz AB (publ),Sweden,Consumer Cyclical,Apparel Manufacturing,SEK,yahoo
+HNR1.DE,Hannover Rück SE,Germany,Financial Services,Insurance - Reinsurance,EUR,yahoo
+HO.PA,Thales S.A.,France,Industrials,Aerospace & Defense,EUR,yahoo
+HOLN.SW,Holcim AG,Switzerland,Basic Materials,Building Materials,CHF,yahoo
+HOME.MC,"Neinor Homes, S.A.",Spain,Real Estate,Real Estate - Development,EUR,yahoo
+HSBA.L,HSBC Holdings plc,United Kingdom,Financial Services,Banks - Diversified,GBp,yahoo
+HSX.L,Hiscox Ltd,Bermuda,Financial Services,Insurance - Property & Casualty,GBp,yahoo
+HUH1V.HE,Huhtamäki Oyj,Finland,Consumer Cyclical,Packaging & Containers,EUR,yahoo
+HWDN.L,Howden Joinery Group Plc,United Kingdom,Consumer Cyclical,"Furnishings, Fixtures & Appliances",GBp,yahoo
+IAG.L,International Consolidated Airlines Group S.A.,United Kingdom,Industrials,Airlines,GBp,yahoo
+IAG.MC,International Consolidated Airlines Group S.A.,United Kingdom,Industrials,Airlines,EUR,yahoo
+IBE.MC,"Iberdrola, S.A.",Spain,Utilities,Utilities - Diversified,EUR,yahoo
+IBS.LS,"Ibersol, S.G.P.S., S.A.",Portugal,Consumer Cyclical,Restaurants,EUR,yahoo
+ICAD.PA,Icade,France,Real Estate,REIT - Diversified,EUR,yahoo
+ICG.L,ICG plc,United Kingdom,Financial Services,Asset Management,GBp,yahoo
+IDR.MC,"Indra Sistemas, S.A.",Spain,Technology,Information Technology Services,EUR,yahoo
+IFX.DE,Infineon Technologies AG,Germany,Technology,Semiconductors,EUR,yahoo
+IG.MI,Italgas S.p.A.,Italy,Utilities,Utilities - Regulated Gas,EUR,yahoo
+IGG.L,IG Group Holdings plc,United Kingdom,Financial Services,Capital Markets,GBp,yahoo
+IHG.L,InterContinental Hotels Group PLC,United Kingdom,Consumer Cyclical,Lodging,USD,yahoo
+III.L,3i Group Ord,United Kingdom,Financial Services,Asset Management,GBp,yahoo
+IMB.L,Imperial Brands PLC,United Kingdom,Consumer Defensive,Tobacco,GBp,yahoo
+IMCD.AS,IMCD N.V.,Netherlands,Basic Materials,Specialty Chemicals,EUR,yahoo
+IMI.L,IMI plc,United Kingdom,Industrials,Specialty Industrial Machinery,GBp,yahoo
+IMMO.BR,Immobel SA,Belgium,Real Estate,Real Estate - Development,EUR,yahoo
+INC.MI,Innovatec S.p.A.,Italy,Utilities,Utilities - Regulated Electric,EUR,yahoo
+INDU-C.ST,AB Industrivärden (publ),Sweden,Financial Services,Asset Management,SEK,yahoo
+INF.L,Informa plc,United Kingdom,Communication Services,Publishing,GBp,yahoo
+INGA.AS,ING Groep N.V.,Netherlands,Financial Services,Banks - Diversified,EUR,yahoo
+INVE-B.ST,Investor AB (publ),Sweden,Financial Services,Asset Management,SEK,yahoo
+INVP.L,Investec Group,South Africa,Financial Services,Capital Markets,GBp,yahoo
+INW.MI,Infrastrutture Wireless Italiane S.p.A.,Italy,Real Estate,Real Estate Services,EUR,yahoo
+IRE.MI,Iren SpA,Italy,Utilities,Utilities - Diversified,EUR,yahoo
+ISB.IC,Íslandsbanki hf.,Iceland,Financial Services,Banks - Regional,ISK,yahoo
+ISCTR.IS,Türkiye Is Bankasi A.S.,Turkey,Financial Services,Banks - Regional,TRY,yahoo
+ISP.MI,Intesa Sanpaolo S.p.A.,Italy,Financial Services,Banks - Regional,EUR,yahoo
+ISS.CO,ISS A/S,Denmark,Industrials,Specialty Business Services,DKK,yahoo
+ITH.L,Ithaca Energy plc,United Kingdom,Energy,Oil & Gas E&P,GBp,yahoo
+ITRK.L,Intertek Group plc,United Kingdom,Industrials,Specialty Business Services,GBp,yahoo
+ITX.MC,"Industria de Diseño Textil, S.A.",Spain,Consumer Cyclical,Apparel Retail,EUR,yahoo
+IVG.MI,Iveco Group N.V.,Italy,Industrials,Farm & Heavy Construction Machinery,EUR,yahoo
+JAREN.OL,Jæren Sparebank,Norway,Financial Services,Banks - Regional,NOK,yahoo
+JD.L,JD Sports Fashion Plc,United Kingdom,Consumer Cyclical,Apparel Retail,GBp,yahoo
+JMT.LS,"Jerónimo Martins, SGPS, S.A.",Portugal,Consumer Defensive,Food Distribution,EUR,yahoo
+JYSK.CO,Jyske Bank A/S,Denmark,Financial Services,Banks - Regional,DKK,yahoo
+KALMAR.HE,Kalmar Oyj,Finland,Industrials,Farm & Heavy Construction Machinery,EUR,yahoo
+KBC.BR,KBC Group NV,Belgium,Financial Services,Banks - Diversified,EUR,yahoo
+KBX.DE,Knorr-Bremse AG,Germany,Consumer Cyclical,Auto Parts,EUR,yahoo
+KCC.OL,Klaveness Combination Carriers ASA,Norway,Industrials,Marine Shipping,NOK,yahoo
+KCR.HE,Konecranes Plc,Finland,Industrials,Farm & Heavy Construction Machinery,EUR,yahoo
+KEMIRA.HE,Kemira Oyj,Finland,Basic Materials,Chemicals,EUR,yahoo
+KER.PA,Kering SA,France,Consumer Cyclical,Luxury Goods,EUR,yahoo
+KESKOB.HE,Kesko Oyj,Finland,Consumer Defensive,Grocery Stores,EUR,yahoo
+KGF.L,Kingfisher plc,United Kingdom,Consumer Cyclical,Home Improvement Retail,GBp,yahoo
+KNEBV.HE,KONE Oyj,Finland,Industrials,Specialty Industrial Machinery,EUR,yahoo
+KNIN.SW,Kuehne + Nagel International AG,Switzerland,Industrials,Integrated Freight & Logistics,CHF,yahoo
+KOG.OL,Kongsberg Gruppen ASA,Norway,Industrials,Aerospace & Defense,NOK,yahoo
+KOJAMO.HE,,,,,,yahoo
+KPN.AS,Koninklijke KPN N.V.,Netherlands,Communication Services,Telecom Services,EUR,yahoo
+KRX.IR,Kingspan Group plc,Ireland,Industrials,Building Products & Equipment,EUR,yahoo
+KRZ.IR,Kerry Group plc,Ireland,Consumer Defensive,Packaged Foods,EUR,yahoo
+KVIKA.IC,Kvika banki hf.,Iceland,Financial Services,Banks - Regional,ISK,yahoo
+LAND.L,Land Securities Group Plc,United Kingdom,Real Estate,REIT - Diversified,GBp,yahoo
+LDO.MI,Leonardo S.p.a.,Italy,Industrials,Aerospace & Defense,EUR,yahoo
+LGEN.L,Legal & General Group Plc,United Kingdom,Financial Services,Asset Management,GBp,yahoo
+LI.PA,Klépierre SA,France,Real Estate,REIT - Retail,EUR,yahoo
+LIFCO-B.ST,Lifco AB (publ),Sweden,Industrials,Conglomerates,SEK,yahoo
+LLOY.L,Lloyds Banking Group plc,United Kingdom,Financial Services,Banks - Regional,GBp,yahoo
+LMP.L,LondonMetric Property Plc,United Kingdom,Real Estate,REIT - Industrial,GBp,yahoo
+LOG.MC,"Logista Integral, S.A.",Spain,Industrials,Integrated Freight & Logistics,EUR,yahoo
+LOGN.SW,Logitech International S.A.,Switzerland,Technology,Computer Hardware,CHF,yahoo
+LONN.SW,Lonza Group AG,Switzerland,Healthcare,Diagnostics & Research,CHF,yahoo
+LOOMIS.ST,Loomis AB (publ),Sweden,Industrials,Security & Protection Services,SEK,yahoo
+LOTB.BR,Lotus Bakeries NV,Belgium,Consumer Defensive,Packaged Foods,EUR,yahoo
+LR.PA,Legrand SA,France,Industrials,Electrical Equipment & Parts,EUR,yahoo
+LSEG.L,London Stock Exchange Group plc,United Kingdom,Financial Services,Financial Data & Stock Exchanges,GBp,yahoo
+LSG.OL,Lerøy Seafood Group ASA,Norway,Consumer Defensive,Packaged Foods,NOK,yahoo
+LTMC.MI,Lottomatica Group S.p.A.,Italy,Consumer Cyclical,Gambling,EUR,yahoo
+MAERSK-A.CO,A.P. Møller - Mærsk A/S,Denmark,Industrials,Marine Shipping,DKK,yahoo
+MAERSK-B.CO,A.P. Møller - Mærsk A/S,Denmark,Industrials,Marine Shipping,DKK,yahoo
+MAIRE.MI,Maire S.p.A.,Italy,Industrials,Engineering & Construction,EUR,yahoo
+MANTA.HE,Mandatum Oyj,Finland,Financial Services,Financial Conglomerates,EUR,yahoo
+MAP.MC,"Mapfre, S.A.",Spain,Financial Services,Insurance - Diversified,EUR,yahoo
+MB.MI,Mediobanca Banca di Credito Finanziario S.p.A.,Italy,Financial Services,Banks - Regional,EUR,yahoo
+MBG.DE,Mercedes-Benz Group AG,Germany,Consumer Cyclical,Auto Manufacturers,EUR,yahoo
+MC.PA,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",France,Consumer Cyclical,Luxury Goods,EUR,yahoo
+MDLZ,"Mondelez International, Inc.",United States,Consumer Defensive,Confectioners,USD,yahoo
+MELE.BR,Melexis NV,Belgium,Technology,Semiconductors,EUR,yahoo
+METSO.HE,Metso Oyj,Finland,Industrials,Farm & Heavy Construction Machinery,EUR,yahoo
+MKS.L,Marks and Spencer Group plc,United Kingdom,Consumer Cyclical,Department Stores,GBp,yahoo
+ML.PA,Compagnie Générale des Établissements Michelin Société en commandite par actions,,,,EUR,yahoo
+MNG.L,M&G plc,United Kingdom,Financial Services,Asset Management,GBp,yahoo
+MONC.MI,Moncler S.p.A.,Italy,Consumer Cyclical,Apparel Manufacturing,EUR,yahoo
+MONT.BR,Montea Comm. VA,Belgium,Real Estate,REIT - Industrial,EUR,yahoo
+MORG.OL,Sparebanken Møre,Norway,Financial Services,Banks - Regional,NOK,yahoo
+MOWI.OL,Mowi ASA,Norway,Consumer Defensive,Farm Products,NOK,yahoo
+MPCC.OL,MPC Container Ships ASA,Norway,Industrials,Marine Shipping,NOK,yahoo
+MRK.DE,Merck KGaA,Germany,Healthcare,Drug Manufacturers - Specialty & Generic,EUR,yahoo
+MRL.MC,"MERLIN Properties SOCIMI, S.A.",Spain,Real Estate,REIT - Office,EUR,yahoo
+MRO.L,Melrose Industries PLC,United Kingdom,Industrials,Specialty Industrial Machinery,GBp,yahoo
+MT.AS,ArcelorMittal S.A.,Luxembourg,Basic Materials,Steel,EUR,yahoo
+MTLN.L,Metlen Energy & Metals PLC,Greece,Utilities,Utilities - Diversified,EUR,yahoo
+MTS.MC,ArcelorMittal S.A.,Luxembourg,Basic Materials,Steel,EUR,yahoo
+MTX.DE,MTU Aero Engines AG,Germany,Industrials,Aerospace & Defense,EUR,yahoo
+MUV2.DE,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,Germany,Financial Services,Insurance - Reinsurance,EUR,yahoo
+NAS.OL,Norwegian Air Shuttle ASA,Norway,Industrials,Airlines,NOK,yahoo
+NBA.LS,"Novabase S.G.P.S., S.A.",Portugal,Technology,Information Technology Services,EUR,yahoo
+NDA-FI.HE,Nordea Bank Abp,Finland,Financial Services,Banks - Regional,EUR,yahoo
+NEMAKA.MX,"Nemak, S. A. B. de C. V.",Mexico,Consumer Cyclical,Auto Parts,MXN,yahoo
+NEOEN.PA,,,,,,yahoo
+NESN.SW,Nestlé S.A.,Switzerland,Consumer Defensive,Packaged Foods,CHF,yahoo
+NESTE.HE,Neste Oyj,Finland,Energy,Oil & Gas Refining & Marketing,EUR,yahoo
+NEX.PA,Nexans S.A.,France,Industrials,Electrical Equipment & Parts,EUR,yahoo
+NEXI.MI,Nexi S.p.A.,Italy,Technology,Software - Infrastructure,EUR,yahoo
+NG.L,National Grid plc,United Kingdom,Utilities,Utilities - Regulated Electric,GBp,yahoo
+NHY.OL,Norsk Hydro ASA,Norway,Basic Materials,Aluminum,NOK,yahoo
+NIBE-B.ST,NIBE Industrier AB (publ),Sweden,Industrials,Building Products & Equipment,SEK,yahoo
+NKT.CO,NKT A/S,Denmark,Industrials,Electrical Equipment & Parts,DKK,yahoo
+NN.AS,NN Group N.V.,Netherlands,Financial Services,Insurance - Diversified,EUR,yahoo
+NOD.OL,Nordic Semiconductor ASA,Norway,Technology,Semiconductors,NOK,yahoo
+NOKIA.HE,Nokia Oyj,Finland,Technology,Communication Equipment,EUR,yahoo
+NOS.LS,"NOS, S.G.P.S., S.A.",Portugal,Communication Services,Telecom Services,EUR,yahoo
+NOVAL.AT,Noval Property Real Estate Investment Company,Greece,Real Estate,REIT - Diversified,EUR,yahoo
+NOVN.SW,Novartis AG,Switzerland,Healthcare,Drug Manufacturers - General,CHF,yahoo
+NOVO-B.CO,Novo Nordisk A/S,Denmark,Healthcare,Drug Manufacturers - General,DKK,yahoo
+NPRO.OL,,,,,,yahoo
+NRC.OL,NRC Group ASA,Norway,Industrials,Railroads,NOK,yahoo
+NSIS-B.CO,Novozymes A/S,Denmark,Basic Materials,Specialty Chemicals,DKK,yahoo
+NTGY.MC,"Naturgy Energy Group, S.A.",Spain,Utilities,Utilities - Regulated Gas,EUR,yahoo
+NVG.LS,"The Navigator Company, S.A.",Portugal,Basic Materials,Paper & Paper Products,EUR,yahoo
+NWG.L,NatWest Group plc,United Kingdom,Financial Services,Banks - Regional,GBp,yahoo
+NXI.PA,Nexity SA,France,Real Estate,Real Estate - Development,EUR,yahoo
+NXT.L,NEXT plc,United Kingdom,Consumer Cyclical,Apparel Retail,GBp,yahoo
+O5G.DE,CPI Property Group,Luxembourg,Real Estate,Real Estate Services,EUR,yahoo
+ODF.OL,Odfjell SE,Norway,Industrials,Marine Shipping,NOK,yahoo
+OR.PA,L'Oréal S.A.,France,Consumer Defensive,Household & Personal Products,EUR,yahoo
+ORA.PA,Orange S.A.,France,Communication Services,Telecom Services,EUR,yahoo
+ORK.OL,Orkla ASA,Norway,Consumer Defensive,Packaged Foods,NOK,yahoo
+ORNBV.HE,Orion Oyj,Finland,Healthcare,Drug Manufacturers - General,EUR,yahoo
+ORSTED.CO,Ørsted A/S,Denmark,Utilities,Utilities - Renewable,DKK,yahoo
+OUT1V.HE,Outokumpu Oyj,Finland,Basic Materials,Steel,EUR,yahoo
+OVS.MI,OVS S.p.A.,Italy,Consumer Cyclical,Apparel Manufacturing,EUR,yahoo
+PAH3.DE,Porsche Automobil Holding SE,Germany,Consumer Cyclical,Auto Manufacturers,EUR,yahoo
+PGHN.SW,Partners Group Holding AG,Switzerland,Financial Services,Asset Management,CHF,yahoo
+PHIA.AS,Koninklijke Philips N.V.,Netherlands,Healthcare,Medical Devices,EUR,yahoo
+PHR.LS,"Pharol, S.A.",Portugal,Financial Services,Asset Management,EUR,yahoo
+PIF.TO,Polaris Renewable Energy Inc.,Canada,Utilities,Utilities - Renewable,CAD,yahoo
+PIRC.MI,Pirelli & C. S.p.A.,Italy,Consumer Cyclical,Auto Parts,EUR,yahoo
+PKN.WA,Orlen S.A.,Poland,Energy,Oil & Gas Integrated,PLN,yahoo
+PNDORA.CO,Pandora A/S,Denmark,Consumer Cyclical,Luxury Goods,DKK,yahoo
+PNL.AS,PostNL N.V.,Netherlands,Industrials,Integrated Freight & Logistics,EUR,yahoo
+PPC.AT,Public Power Corporation S.A.,Greece,Utilities,Utilities - Renewable,EUR,yahoo
+PRODEA.AT,Prodea Real Estate Investment Company Société Anonyme,Greece,Real Estate,REIT - Office,EUR,yahoo
+PROX.BR,Proximus PLC,Belgium,Communication Services,Telecom Services,EUR,yahoo
+PRU.L,Prudential plc,Hong Kong,Financial Services,Insurance - Life,GBp,yahoo
+PRX.AS,Prosus N.V.,Netherlands,Consumer Cyclical,Internet Retail,EUR,yahoo
+PRY.MI,Prysmian S.p.A.,Italy,Industrials,Electrical Equipment & Parts,EUR,yahoo
+PSON.L,Pearson plc,United Kingdom,Communication Services,Publishing,GBp,yahoo
+PST.MI,Poste Italiane S.p.A.,Italy,Industrials,Integrated Freight & Logistics,EUR,yahoo
+PTSB.L,Permanent TSB Group Holdings plc,Ireland,Financial Services,Banks - Regional,EUR,yahoo
+PUB.PA,Publicis Groupe S.A.,France,Communication Services,Advertising Agencies,EUR,yahoo
+PUIG.MC,"Puig Brands, S.A.",Spain,Consumer Defensive,Household & Personal Products,EUR,yahoo
+QIA.DE,Qiagen N.V.,Netherlands,Healthcare,Diagnostics & Research,EUR,yahoo
+QNBK.QA,Qatar National Bank (Q.P.S.C.),Qatar,Financial Services,Banks - Diversified,QAR,yahoo
+QTCOM.HE,Qt Group Oyj,Finland,Technology,Software - Application,EUR,yahoo
+RACE.MI,Ferrari N.V.,Italy,Consumer Cyclical,Auto Manufacturers,EUR,yahoo
+RAND.AS,Randstad N.V.,Netherlands,Industrials,Staffing & Employment Services,EUR,yahoo
+RBREW.CO,Royal Unibrew A/S,Denmark,Consumer Defensive,Beverages - Brewers,DKK,yahoo
+REC.MI,Recordati Industria Chimica e Farmaceutica S.p.A.,Italy,Healthcare,Drug Manufacturers - General,EUR,yahoo
+RED.MC,"Redeia Corporación, S.A.",Spain,Utilities,Utilities - Regulated Electric,EUR,yahoo
+REL.L,RELX PLC,United Kingdom,Industrials,Specialty Business Services,GBp,yahoo
+REN.AS,RELX PLC,United Kingdom,Industrials,Specialty Business Services,EUR,yahoo
+RENE.LS,"REN - Redes Energéticas Nacionais, SGPS, S.A.",Portugal,Utilities,Utilities - Diversified,EUR,yahoo
+REP.MC,"Repsol, S.A.",Spain,Energy,Oil & Gas Integrated,EUR,yahoo
+RHM.DE,Rheinmetall AG,Germany,Industrials,Aerospace & Defense,EUR,yahoo
+RI.PA,Pernod Ricard SA,France,Consumer Defensive,Beverages - Wineries & Distilleries,EUR,yahoo
+RIO.L,Rio Tinto Group,United Kingdom,Basic Materials,Other Industrial Metals & Mining,GBp,yahoo
+RKT.L,Reckitt Benckiser Group plc,United Kingdom,Consumer Defensive,Household & Personal Products,GBp,yahoo
+RMS.PA,Hermès International Société en commandite par actions,France,Consumer Cyclical,Luxury Goods,EUR,yahoo
+RNO.PA,Renault SA,France,Consumer Cyclical,Auto Manufacturers,EUR,yahoo
+ROCK-B.CO,Rockwool A/S,Denmark,Industrials,Building Products & Equipment,DKK,yahoo
+ROG.SW,,,,,,yahoo
+ROGS.OL,Rogaland Sparebank,Norway,Financial Services,Banks - Regional,NOK,yahoo
+ROMER.OL,Romerike Sparebank,Norway,Financial Services,Banks - Regional,NOK,yahoo
+ROVI.MC,"Laboratorios Farmaceuticos Rovi, S.A.",Spain,Healthcare,Drug Manufacturers - Specialty & Generic,EUR,yahoo
+RR.L,Rolls-Royce Holdings plc,United Kingdom,Industrials,Aerospace & Defense,GBp,yahoo
+RTO.L,Rentokil Initial plc,United Kingdom,Industrials,Specialty Business Services,GBp,yahoo
+RWE.DE,RWE Aktiengesellschaft,Germany,Utilities,Utilities - Diversified,EUR,yahoo
+RY.TO,Royal Bank of Canada,Canada,Financial Services,Banks - Diversified,CAD,yahoo
+SAAB-B.ST,Saab AB (publ),Sweden,Industrials,Aerospace & Defense,SEK,yahoo
+SAB.MC,"Banco de Sabadell, S.A.",Spain,Financial Services,Banks - Diversified,EUR,yahoo
+SAF.PA,Safran SA,France,Industrials,Aerospace & Defense,EUR,yahoo
+SAGA-B.ST,AB Sagax (publ),Sweden,Real Estate,Real Estate Services,SEK,yahoo
+SALM.OL,SalMar ASA,Norway,Consumer Defensive,Farm Products,NOK,yahoo
+SAMPO.HE,Sampo Oyj,Finland,Financial Services,Insurance - Diversified,EUR,yahoo
+SAN.MC,"Banco Santander, S.A.",Spain,Financial Services,Banks - Diversified,EUR,yahoo
+SAN.PA,Sanofi,France,Healthcare,Drug Manufacturers - General,EUR,yahoo
+SAND.ST,Sandvik AB (publ),Sweden,Industrials,Specialty Industrial Machinery,SEK,yahoo
+SAP.DE,SAP SE,Germany,Technology,Software - Application,EUR,yahoo
+SBB-B.ST,Samhällsbyggnadsbolaget i Norden AB (publ),Sweden,Real Estate,Real Estate Services,SEK,yahoo
+SBRY.L,J Sainsbury plc,United Kingdom,Consumer Defensive,Grocery Stores,GBp,yahoo
+SCA-B.ST,Svenska Cellulosa Aktiebolaget SCA (publ),Sweden,Basic Materials,Paper & Paper Products,SEK,yahoo
+SCATC.OL,Scatec ASA,Norway,Utilities,Utilities - Renewable,NOK,yahoo
+SCHP.PA,Séché Environnement SA,France,Industrials,Waste Management,EUR,yahoo
+SCMN.SW,Swisscom AG,Switzerland,Communication Services,Telecom Services,CHF,yahoo
+SCYR.MC,"Sacyr, S.A.",Spain,Industrials,Engineering & Construction,EUR,yahoo
+SDLF.L,Standard Life plc,United Kingdom,Financial Services,Insurance - Life,GBp,yahoo
+SDR.L,Schroders PLC,United Kingdom,Financial Services,Asset Management,GBp,yahoo
+SEB-A.ST,Skandinaviska Enskilda Banken AB (publ),Sweden,Financial Services,Banks - Regional,SEK,yahoo
+SECU-B.ST,Securitas AB (publ),Sweden,Industrials,Security & Protection Services,SEK,yahoo
+SEM.LS,"Semapa - Sociedade de Investimento e Gestão, SGPS, S.A.",Portugal,Basic Materials,Paper & Paper Products,EUR,yahoo
+SFL,SFL Corporation Ltd.,Bermuda,Industrials,Marine Shipping,USD,yahoo
+SGE.L,The Sage Group plc,United Kingdom,Technology,Software - Application,GBp,yahoo
+SGO.PA,Compagnie de Saint-Gobain S.A.,France,Industrials,Building Products & Equipment,EUR,yahoo
+SGRO.L,SEGRO Plc,United Kingdom,Real Estate,REIT - Industrial,GBp,yahoo
+SHB-A.ST,Svenska Handelsbanken AB (publ),Sweden,Financial Services,Banks - Diversified,SEK,yahoo
+SHEL.L,Shell plc,United Kingdom,Energy,Oil & Gas Integrated,GBp,yahoo
+SHELL.AS,Shell plc,United Kingdom,Energy,Oil & Gas Integrated,EUR,yahoo
+SHL.DE,Siemens Healthineers AG,Germany,Healthcare,Medical Devices,EUR,yahoo
+SIE.DE,Siemens Aktiengesellschaft,Germany,Industrials,Specialty Industrial Machinery,EUR,yahoo
+SIKA.SW,Sika AG,Switzerland,Basic Materials,Specialty Chemicals,CHF,yahoo
+SKA-B.ST,Skanska AB (publ),Sweden,Industrials,Engineering & Construction,SEK,yahoo
+SKF-B.ST,AB SKF (publ),Sweden,Industrials,Tools & Accessories,SEK,yahoo
+SKUE.OL,Skue Sparebank,Norway,Financial Services,Banks - Regional,NOK,yahoo
+SLHN.SW,Swiss Life Holding AG,Switzerland,Financial Services,Insurance - Diversified,CHF,yahoo
+SLR.MC,"Solaria Energía y Medio Ambiente, S.A.",Spain,Utilities,Utilities - Renewable,EUR,yahoo
+SMIN.L,Smiths Group plc,United Kingdom,Industrials,Specialty Industrial Machinery,GBp,yahoo
+SN.L,Smith & Nephew plc,United Kingdom,Healthcare,Medical Devices,GBp,yahoo
+SOF.BR,Sofina Société Anonyme,Belgium,Financial Services,Asset Management,EUR,yahoo
+SOLB.BR,Solvay SA,Belgium,Basic Materials,Chemicals,EUR,yahoo
+SON.LS,"Sonae, SGPS, S.A.",Portugal,Consumer Defensive,Grocery Stores,EUR,yahoo
+SONC.LS,,,,,,yahoo
+SPIE.PA,SPIE SA,France,Industrials,Engineering & Construction,EUR,yahoo
+SPM.MI,Saipem SpA,Italy,Energy,Oil & Gas Equipment & Services,EUR,yahoo
+SPNO.CO,,,,,,yahoo
+SPOG.OL,Sparebanken Øst,Norway,Financial Services,Banks - Regional,NOK,yahoo
+SPX.L,Spirax Group plc,United Kingdom,Industrials,Specialty Industrial Machinery,GBp,yahoo
+SREN.SW,Swiss Re AG,Switzerland,Financial Services,Insurance - Reinsurance,CHF,yahoo
+SRG.MI,Snam S.p.A.,Italy,Utilities,Utilities - Regulated Gas,EUR,yahoo
+SSAB-B.ST,SSAB AB (publ),Sweden,Basic Materials,Steel,SEK,yahoo
+SSE.L,SSE plc,United Kingdom,Utilities,Utilities - Diversified,GBp,yahoo
+STAN.L,Standard Chartered PLC,United Kingdom,Financial Services,Banks - Diversified,GBp,yahoo
+STB.OL,Storebrand ASA,Norway,Financial Services,Financial Conglomerates,NOK,yahoo
+STERV.HE,Stora Enso Oyj,Finland,Consumer Cyclical,Packaging & Containers,EUR,yahoo
+STJ.L,St. James's Place plc,United Kingdom,Financial Services,Asset Management,GBp,yahoo
+STLAM.MI,Stellantis N.V.,Netherlands,Consumer Cyclical,Auto Manufacturers,EUR,yahoo
+STLAP.PA,Stellantis N.V.,Netherlands,Consumer Cyclical,Auto Manufacturers,EUR,yahoo
+STMMI.MI,STMicroelectronics N.V.,Switzerland,Technology,Semiconductors,EUR,yahoo
+STMPA.PA,STMicroelectronics N.V.,Switzerland,Technology,Semiconductors,EUR,yahoo
+SU.PA,Schneider Electric S.E.,France,Industrials,Specialty Industrial Machinery,EUR,yahoo
+SUBC.OL,Subsea 7 S.A.,Luxembourg,Energy,Oil & Gas Equipment & Services,NOK,yahoo
+SVEG.OL,,,,,,yahoo
+SVT.L,Severn Trent PLC,United Kingdom,Utilities,Utilities - Regulated Water,GBp,yahoo
+SW,Smurfit Westrock Plc,Ireland,Consumer Cyclical,Packaging & Containers,USD,yahoo
+SWED-A.ST,Swedbank AB (publ),Sweden,Financial Services,Banks - Regional,SEK,yahoo
+SY1.DE,Symrise AG,Germany,Basic Materials,Specialty Chemicals,EUR,yahoo
+SYENS.BR,Syensqo SA/NV,Belgium,Basic Materials,Chemicals,EUR,yahoo
+TCELL.IS,Turkcell Iletisim Hizmetleri A.S.,Turkey,Communication Services,Telecom Services,TRY,yahoo
+TEF.MC,"Telefónica, S.A.",Spain,Communication Services,Telecom Services,EUR,yahoo
+TEL.OL,Telenor ASA,Norway,Communication Services,Telecom Services,NOK,yahoo
+TEL2-B.ST,Tele2 AB (publ),Sweden,Communication Services,Telecom Services,SEK,yahoo
+TELIA.ST,Telia Company AB (publ),Sweden,Communication Services,Telecom Services,SEK,yahoo
+TEN.MI,Tenaris S.A.,Luxembourg,Energy,Oil & Gas Equipment & Services,EUR,yahoo
+TENERGY.AT,,,,,,yahoo
+TEP.PA,Teleperformance SE,France,Industrials,Specialty Business Services,EUR,yahoo
+TEVA,Teva Pharmaceutical Industries Limited,Israel,Healthcare,Drug Manufacturers - Specialty & Generic,USD,yahoo
+TGS.OL,TGS ASA,Norway,Energy,Oil & Gas Equipment & Services,NOK,yahoo
+TIETO.HE,Tieto Oyj,Finland,Technology,Information Technology Services,EUR,yahoo
+TINDE.OL,Tinde Sparebank,Norway,Financial Services,Financial Conglomerates,NOK,yahoo
+TIT.MI,Telecom Italia S.p.A.,Italy,Communication Services,Telecom Services,EUR,yahoo
+TKO.PA,Tikehau Capital,France,Financial Services,Asset Management,EUR,yahoo
+TLV.RO,Banca Transilvania S.A.,Romania,Financial Services,Banks - Regional,RON,yahoo
+TMO,Thermo Fisher Scientific Inc.,United States,Healthcare,Diagnostics & Research,USD,yahoo
+TOM.OL,Tomra Systems ASA,Norway,Industrials,Waste Management,NOK,yahoo
+TPRO.MI,Technoprobe S.p.A.,Italy,Technology,Semiconductors,EUR,yahoo
+TRIO.AS,Triodos Bank N.V.,Netherlands,Financial Services,Banks - Regional,EUR,yahoo
+TRN.MI,Terna S.p.A.,Italy,Utilities,Utilities - Regulated Electric,EUR,yahoo
+TRYG.CO,Tryg A/S,Denmark,Financial Services,Insurance - Diversified,DKK,yahoo
+TSCO.L,Tesco PLC,United Kingdom,Consumer Defensive,Grocery Stores,GBp,yahoo
+TSKB.IS,Türkiye Sinai Kalkinma Bankasi A.S.,Turkey,Financial Services,Banks - Regional,TRY,yahoo
+TTE.PA,TotalEnergies SE,France,Energy,Oil & Gas Integrated,EUR,yahoo
+TTKOM.IS,Türk Telekomünikasyon Anonim Sirketi,Turkey,Communication Services,Telecom Services,TRY,yahoo
+TYRES.HE,Nokian Renkaat Oyj,Finland,Consumer Cyclical,Auto Parts,EUR,yahoo
+UBSG.SW,UBS Group AG,Switzerland,Financial Services,Banks - Diversified,CHF,yahoo
+UCB.BR,UCB SA,Belgium,Healthcare,Biotechnology,EUR,yahoo
+UCG.MI,UniCredit S.p.A.,Italy,Financial Services,Banks - Regional,EUR,yahoo
+ULKER.IS,Ülker Bisküvi Sanayi A.S.,Turkey,Consumer Defensive,Confectioners,TRY,yahoo
+ULVR.L,Unilever PLC,United Kingdom,Consumer Defensive,Household & Personal Products,GBp,yahoo
+UMG.AS,Universal Music Group N.V.,Netherlands,Communication Services,Entertainment,EUR,yahoo
+UMI.BR,Umicore SA,Belgium,Industrials,Waste Management,EUR,yahoo
+UNA.AS,Unilever PLC,United Kingdom,Consumer Defensive,Household & Personal Products,EUR,yahoo
+UNI.MC,"Unicaja Banco, S.A.",Spain,Financial Services,Banks - Regional,EUR,yahoo
+UNI.MI,Unipol Assicurazioni S.p.A.,Italy,Financial Services,Insurance - Property & Casualty,EUR,yahoo
+UPM.HE,UPM-Kymmene Oyj,Finland,Basic Materials,Paper & Paper Products,EUR,yahoo
+URW.PA,Unibail-Rodamco-Westfield SE,France,Real Estate,REIT - Retail,EUR,yahoo
+UU.L,United Utilities Group PLC,United Kingdom,Utilities,Utilities - Regulated Water,GBp,yahoo
+VAF.LS,VAA-Vista Alegre Atlantis SA,Portugal,Consumer Cyclical,"Furnishings, Fixtures & Appliances",EUR,yahoo
+VAKBN.IS,Türkiye Vakiflar Bankasi Türk Anonim Ortakligi,Turkey,Financial Services,Banks - Regional,TRY,yahoo
+VALMT.HE,Valmet Oyj,Finland,Industrials,Specialty Industrial Machinery,EUR,yahoo
+VAR.OL,Vår Energi ASA,Norway,Energy,Oil & Gas E&P,NOK,yahoo
+VIE.PA,Veolia Environnement SA,France,Industrials,Waste Management,EUR,yahoo
+VLTSA.PA,Voltalia SA,France,Utilities,Utilities - Renewable,EUR,yahoo
+VNA.DE,Vonovia SE,Germany,Real Estate,Real Estate Services,EUR,yahoo
+VOD.L,Vodafone Group Public Limited Company,United Kingdom,Communication Services,Telecom Services,GBp,yahoo
+VOE.VI,Voestalpine AG,Austria,Basic Materials,Steel,EUR,yahoo
+VOLV-B.ST,AB Volvo (publ),Sweden,Industrials,Farm & Heavy Construction Machinery,SEK,yahoo
+VOW3.DE,Volkswagen AG,Germany,Consumer Cyclical,Auto Manufacturers,EUR,yahoo
+VRLA.PA,Verallia Société Anonyme,France,Consumer Cyclical,Packaging & Containers,EUR,yahoo
+VWS.CO,Vestas Wind Systems A/S,Denmark,Industrials,Specialty Industrial Machinery,DKK,yahoo
+WAB,Westinghouse Air Brake Technologies Corporation,United States,Industrials,Railroads,USD,yahoo
+WAWI.OL,Wallenius Wilhelmsen ASA,Norway,Industrials,Marine Shipping,NOK,yahoo
+WBD.MI,Webuild S.p.A.,Italy,Industrials,Engineering & Construction,EUR,yahoo
+WDP.BR,Warehouses De Pauw SA,Belgium,Real Estate,REIT - Industrial,EUR,yahoo
+WEHB.BR,Wereldhave Belgium,Belgium,Real Estate,REIT - Retail,EUR,yahoo
+WEIR.L,Weir PLC,United Kingdom,Industrials,Specialty Industrial Machinery,GBp,yahoo
+WIE.VI,Wienerberger AG,Austria,Basic Materials,Building Materials,EUR,yahoo
+WKL.AS,Wolters Kluwer N.V.,Netherlands,Industrials,Specialty Business Services,EUR,yahoo
+WRT1V.HE,Wärtsilä Oyj Abp,Finland,Industrials,Specialty Industrial Machinery,EUR,yahoo
+WTB.L,Whitbread plc,United Kingdom,Consumer Cyclical,Lodging,GBp,yahoo
+YAR.OL,Yara International ASA,Norway,Basic Materials,Agricultural Inputs,NOK,yahoo
+YKBNK.IS,Yapi ve Kredi Bankasi A.S.,Turkey,Financial Services,Banks - Regional,TRY,yahoo
+ZAL.DE,Zalando SE,Germany,Consumer Cyclical,Internet Retail,EUR,yahoo
+ZEAL.CO,Zealand Pharma A/S,Denmark,Healthcare,Biotechnology,DKK,yahoo
+ZOREN.IS,Zorlu Enerji Elektrik Üretim A.S.,Turkey,Utilities,Utilities - Renewable,TRY,yahoo
+ZURN.SW,Zurich Insurance Group AG,Switzerland,Financial Services,Insurance - Diversified,CHF,yahoo
