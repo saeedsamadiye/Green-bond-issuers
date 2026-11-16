@@ -99,6 +99,10 @@ class Settings:
     match_window_months: int = 36
     match_min_months: int = 18
     match_with_replacement: bool = False
+    # True: an issuer is held in a month only when its twin is held too (pairs
+    # only), so both portfolios always have the same number of firms. Issuers
+    # without a twin, and pair-months where either share has no return, drop out.
+    matched_pairs_only: bool = False
 
     # regressions
     factor_model: str = "FF5"
@@ -744,6 +748,25 @@ def holding_mask(events: pd.DataFrame, index: pd.DatetimeIndex, s: Settings,
     return mask
 
 
+def pair_masks(matched: pd.DataFrame, rets_m: pd.DataFrame, s: Settings):
+    """Holding masks for issuers and twins that keep only complete pairs.
+
+    A pair counts in a month when both the issuer and its twin are held and
+    both have a return that month; otherwise both are left out.
+    """
+    idx = rets_m.index
+    g = holding_mask(matched, idx, s, "ticker")
+    c = holding_mask(matched, idx, s, "control")
+    r = rets_m.reindex(idx)
+    for _, e in matched.iterrows():
+        t, k = e["ticker"], e["control"]
+        ok = (r[t].notna() if t in r else False) & (r[k].notna() if k in r else False)
+        both = (g[t] > 0) & (c[k] > 0) & ok
+        g[t] = both.astype(float)
+        c[k] = both.astype(float)
+    return g, c
+
+
 def portfolio_returns(rets_m: pd.DataFrame, mask: pd.DataFrame, min_firms: int) -> pd.DataFrame:
     """Equal-weighted monthly return and number of firms held."""
     cols = [c for c in mask.columns if c in rets_m.columns]
@@ -961,10 +984,18 @@ def run_analysis(events: pd.DataFrame, prices: pd.DataFrame, factors_m: pd.DataF
     events = events.merge(matches[["ticker", "control", "match_level"]], on="ticker", how="left")
 
     idx = rets_m.index
-    green = portfolio_returns(rets_m, holding_mask(events, idx, s, "ticker"), s.min_firms)
     matched = events.dropna(subset=["control"])
-    control = (portfolio_returns(rets_m, holding_mask(matched, idx, s, "control"), s.min_firms)
-               if not matched.empty else pd.DataFrame(columns=["ret", "n_firms"], dtype=float))
+    if s.matched_pairs_only:
+        if matched.empty:
+            raise ValueError("No issuer has a twin with these settings, so 'Matched pairs only' "
+                             "has nothing to compare. Turn it off or change the matching settings.")
+        green_mask, control_mask = pair_masks(matched, rets_m, s)
+        green = portfolio_returns(rets_m, green_mask, s.min_firms)
+        control = portfolio_returns(rets_m, control_mask, s.min_firms)
+    else:
+        green = portfolio_returns(rets_m, holding_mask(events, idx, s, "ticker"), s.min_firms)
+        control = (portfolio_returns(rets_m, holding_mask(matched, idx, s, "control"), s.min_firms)
+                   if not matched.empty else pd.DataFrame(columns=["ret", "n_firms"], dtype=float))
     rf = fm["RF"]
     ports = pd.DataFrame({"green": green["ret"], "control": control["ret"]}).dropna(how="all")
     ports = ports.loc[pd.Timestamp(s.start):pd.Timestamp(s.end) + pd.offsets.MonthEnd(s.hold_months + 1)]
@@ -1470,6 +1501,12 @@ def selftest():
     ann = pd.DataFrame({"ticker": [ev0["ticker"].iloc[1]], "announcement_date": [ev0["event_date"].iloc[1] - pd.Timedelta(days=7)]})
     a = apply_event_dates(ev0, ann, Settings(event_date_source="announcement"))
     check("announcement date used", (a["date_source"] == "announcement").sum() == 1)
+
+    # matched pairs only: both portfolios hold the same number of firms every month
+    sp = Settings(start="2012-01-01", winsor_pct=0, matched_pairs_only=True)
+    pr = run_analysis(demo_events(d, sp), d["prices"], d["factors_m"], d["factors_d"],
+                      d["universe"], sp, fx=d["fx"], info=d["info"])["portfolios"]
+    check("matched pairs: equal firm counts", (pr["n_green"] == pr["n_control"]).all())
 
     import tempfile
     with tempfile.TemporaryDirectory() as tmp:

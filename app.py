@@ -152,6 +152,9 @@ match_win = sb.slider("Pre-event window for beta and volatility (months)", 12, 6
                       disabled=lock)
 match_min = sb.number_input("Minimum months of data to match", 6, 60, S0.match_min_months, disabled=lock)
 replacement = sb.checkbox("Allow one twin for several issuers", S0.match_with_replacement, disabled=lock)
+pairs_only = sb.checkbox("Matched pairs only", S0.matched_pairs_only, disabled=lock,
+                         help="Hold an issuer only in months when its twin is held too. Issuers without a twin "
+                              "are left out, so both portfolios always contain the same number of firms.")
 
 sb.header("Regressions")
 model = sb.selectbox("Main factor model", list(eng.FACTOR_MODELS), index=list(eng.FACTOR_MODELS).index(S0.factor_model))
@@ -180,7 +183,7 @@ settings = replace(S0, start=str(start), end=str(end), bond_types=tuple(bond_typ
                    hold_months=int(hold), entry_lag_months=int(lag), min_firms=int(min_firms),
                    winsor_pct=float(winsor), match_mode=match_mode, match_caliper=float(caliper),
                    match_window_months=int(match_win), match_min_months=int(match_min),
-                   match_with_replacement=replacement, factor_model=model, nw_lags=int(nw),
+                   match_with_replacement=replacement, matched_pairs_only=pairs_only, factor_model=model, nw_lags=int(nw),
                    event_date_source=date_source, exclude_earnings=excl_earn, est_window=tuple(est),
                    event_windows=windows)
 
@@ -549,6 +552,7 @@ with tabs[7]:
   {match_text}
 * **Portfolios.** From {settings.entry_lag_months} month(s) after the event month, each issuer is held for
   {settings.hold_months} months in an equal-weighted portfolio; its twin is held over the same months.
+  {"Only matched pairs are held: an issuer counts in a month only when its twin also has a return that month, so both portfolios hold the same number of firms." if settings.matched_pairs_only else "Issuers without a twin stay in the issuer portfolio, so it can hold a few more firms than the twin portfolio."}
 * **Risk adjustment.** Monthly excess returns on CAPM, FF3 and FF5, with Newey-West ({settings.nw_lags} lags) errors.
 * **Event study.** Market model estimated on trading days {settings.est_window[0]} to {settings.est_window[1]},
   and twin-adjusted returns (issuer minus twin on the same day). Windows: {", ".join(f"[{a}, {b}]" for a, b in settings.event_windows)}.
